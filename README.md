@@ -7,10 +7,7 @@
 ### Various links
 
 * [Wakatime stats](wakatime.md)
-
-### What others say about Revi
-
-* Nice person! - [sm0rux](https://github.com/sm0rux)
+* [Testimonials](testimonial.md)
 
 <!--
 GitHub boilerplate
