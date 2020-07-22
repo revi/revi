@@ -1,13 +1,13 @@
 # Yongmin Hong (revi)
 
 * Lazy amateur translator, real newbie coder, chief laziness officer.
-* Contractor @ [@wikimedia](https://github.com/wikimedia). Not a coder job. 
+* Contractor [@wikimedia](https://github.com/wikimedia). Not a coder job.
 * [Homepage](https://revi.omg.lol)
 
 ### Various links
 
-* [Wakatime stats](wakatime.md)
-* [Testimonials](testimonial.md)
+* [Wakatime stats](https://github.com/revi/revi/blob/master/wakatime.md)
+* [Testimonials](https://github.com/revi/revi/blob/master/testimonial.md)
 
 <!--
 GitHub boilerplate
