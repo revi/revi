@@ -16,6 +16,8 @@ PHP        0 secs          ░░░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
+Provided via [athul/waka-readme](https://github.com/athul/waka-readme).
+
 ## Various links
 
 * [Wakatime stats](https://github.com/revi/revi/blob/master/wakatime.md)
