@@ -4,7 +4,12 @@
 * Contractor [@wikimedia](https://github.com/wikimedia). Not a coder job.
 * [Homepage](https://revi.omg.lol)
 
-### Various links
+## Wakatime Stats for last 7 days
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+## Various links
 
 * [Wakatime stats](https://github.com/revi/revi/blob/master/wakatime.md)
 * [Wakatime leaderboard](https://wakatime.com/leaders/sec/0d630197-9761-422d-b67c-cd71547c0642/join/taeasttxvy)
