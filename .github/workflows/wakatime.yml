@@ -1,0 +1,15 @@
+name: Wakatime Readme Update
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Runs at midnight KST
+    - cron: '0 15 * * *'
+jobs:
+  update-readme:
+    name: Update repo readmefile
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
