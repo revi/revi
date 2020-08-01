@@ -7,6 +7,13 @@
 ## Wakatime Stats for last 7 days
 
 <!--START_SECTION:waka-->
+```text
+Other      15 mins         █████████████░░░░░░░░░░░░   54.85 % 
+Asciidoc   7 mins          ███████░░░░░░░░░░░░░░░░░░   27.96 % 
+Markdown   4 mins          ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
+Bash       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+PHP        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+```
 <!--END_SECTION:waka-->
 
 ## Various links
