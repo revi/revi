@@ -3,8 +3,10 @@ name: Wakatime Readme Update
 on:
   workflow_dispatch:
   schedule:
-    # Runs at midnight KST
-    - cron: '0 15 * * *'
+    # Runs at midnight UTC (09:00 KST)
+    # Wakatime uses UTC as their date stuff, so it is just a better idea to use
+    # UTC for the timezone business.
+    - cron: '0 0 * * *'
 jobs:
   update-readme:
     name: Update repo readmefile
@@ -14,3 +16,4 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
+          COMMIT_MESSAGE: Update Wakatime statistics
