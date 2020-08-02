@@ -8,7 +8,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 July, 2020 - 31 July, 2020
+Week: 25 July, 2020 - 01 August, 2020
 
 Other      15 mins         █████████████░░░░░░░░░░░░   54.85 % 
 Asciidoc   7 mins          ███████░░░░░░░░░░░░░░░░░░   27.96 % 
