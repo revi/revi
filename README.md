@@ -8,7 +8,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 31 July, 2020 - 07 August, 2020
+Week: 01 August, 2020 - 08 August, 2020
 
 Markdown   10 mins         ████████████████████░░░░░   81.54 % 
 YAML       2 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
