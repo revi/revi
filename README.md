@@ -8,7 +8,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 23 September, 2020 - 30 September, 2020
+
+Text    13 mins         ████████████▓░░░░░░░░░░░░   50.44 % 
+Other   13 mins         ████████████▒░░░░░░░░░░░░   49.56 % 
 ```
 <!--END_SECTION:waka-->
 
