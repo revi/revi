@@ -8,10 +8,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 25 September, 2020 - 02 October, 2020
+Week: 26 September, 2020 - 03 October, 2020
 
-Text    13 mins         ████████████▓░░░░░░░░░░░░   50.44 % 
-Other   13 mins         ████████████▒░░░░░░░░░░░░   49.56 % 
+Text    13 mins         █████████▒░░░░░░░░░░░░░░░   37.58 % 
+Other   13 mins         █████████▒░░░░░░░░░░░░░░░   36.92 % 
+PHP     5 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.67 % 
+SQL     3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
 ```
 <!--END_SECTION:waka-->
 
