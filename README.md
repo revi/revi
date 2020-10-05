@@ -1,7 +1,8 @@
 # Yongmin Hong (revi)
 
+[![revi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=revi&count_private=true&show_icons=true&theme=solarized-light&include_all_commits=true)](https://github-readme-stats.vercel.app)
+
 * Lazy amateur translator, real newbie coder, chief laziness officer.
-* Contractor [@wikimedia](https://github.com/wikimedia). Not a coder job.
 * [Homepage](https://revi.omg.lol)
 
 ## Wakatime Stats for last 7 days
