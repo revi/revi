@@ -1,6 +1,6 @@
 # Yongmin Hong (revi)
 
-[![revi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=revi&count_private=true&show_icons=true&theme=solarized-light&include_all_commits=true)](https://github-readme-stats.vercel.app)
+<a href="https://github-readme-stats.vercel.app"><img src="https://github-readme-stats.vercel.app/api?username=revi&count_private=true&show_icons=true&theme=solarized-light&include_all_commits=true" alt="revi's GitHub stats" align=right></a>
 
 * Lazy amateur translator, real newbie coder, chief laziness officer.
 * [Homepage](https://revi.omg.lol)
