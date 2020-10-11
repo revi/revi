@@ -9,12 +9,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 October, 2020 - 09 October, 2020
+Week: 03 October, 2020 - 10 October, 2020
 
-JSON       30 mins         ██████████████░░░░░░░░░░░   56.41 % 
-Markdown   14 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.50 % 
-PHP        5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
-SQL        3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+JSON       30 mins         █████████████████░░░░░░░░   68.04 % 
+Markdown   14 mins         ████████░░░░░░░░░░░░░░░░░   31.96 % 
 ```
 <!--END_SECTION:waka-->
 
