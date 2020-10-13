@@ -9,7 +9,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 October, 2020 - 11 October, 2020
+Week: 05 October, 2020 - 12 October, 2020
 
 JSON       30 mins         █████████████████░░░░░░░░   68.04 % 
 Markdown   14 mins         ████████░░░░░░░░░░░░░░░░░   31.96 % 
