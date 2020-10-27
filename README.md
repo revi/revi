@@ -17,6 +17,12 @@ Other   2 mins          ██████████████████�
 
 Provided via [athul/waka-readme](https://github.com/athul/waka-readme).
 
+## Todoist Stats
+<!-- TODO-IST:START -->
+<!-- TODO-IST:END -->
+
+Provided via [abhisheknaiidu/todoist-readme](https://github.com/abhisheknaiidu/todoist-readme)
+
 ## Various links
 
 * [Wakatime stats](https://github.com/revi/revi/blob/master/wakatime.md)
