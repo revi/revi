@@ -9,7 +9,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 20 October, 2020 - 27 October, 2020
+
+Markdown   7 mins          ███████████████████████▓░   94.62 % 
 ```
 <!--END_SECTION:waka-->
 
