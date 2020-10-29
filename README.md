@@ -9,9 +9,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 20 October, 2020 - 27 October, 2020
+Week: 21 October, 2020 - 28 October, 2020
 
-Markdown   7 mins          ███████████████████████▓░   94.62 % 
+Markdown     7 mins          █████████████░░░░░░░░░░░░   52.25 % 
+JavaScript   5 mins          █████████▒░░░░░░░░░░░░░░░   36.89 % 
+YAML         1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
 ```
 <!--END_SECTION:waka-->
 
