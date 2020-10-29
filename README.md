@@ -1,7 +1,5 @@
 # Yongmin Hong (revi)
 
-<a href="https://github-readme-stats.vercel.app"><img src="https://github-readme-stats.vercel.app/api?username=revi&count_private=true&show_icons=true&theme=solarized-light&include_all_commits=true" alt="revi's GitHub stats" align=right></a>
-
 * Lazy amateur translator, real newbie coder, chief laziness officer.
 * [Homepage](https://revi.omg.lol)
 
@@ -36,6 +34,11 @@ Provided via [abhisheknaiidu/todoist-readme](https://github.com/abhisheknaiidu/t
 * [Wakatime leaderboard](https://wakatime.com/leaders/sec/0d630197-9761-422d-b67c-cd71547c0642/join/taeasttxvy)
 * [Sourcerer.io](https://sourcerer.io/revi)
 * [Testimonials](https://github.com/revi/revi/blob/master/testimonial.md)
+
+<details>
+<summary>GitHub Stats</summary>
+<a href="https://github-readme-stats.vercel.app"><img src="https://github-readme-stats.vercel.app/api?username=revi&count_private=true&show_icons=true&theme=solarized-light&include_all_commits=true" alt="revi's GitHub stats" align=right /></a>
+</details>
 
 <!--
 GitHub boilerplate
