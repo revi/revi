@@ -7,11 +7,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 26 October, 2020 - 02 November, 2020
+Week: 27 October, 2020 - 03 November, 2020
 
-Markdown     10 mins         ███████████████░░░░░░░░░░   60.11 % 
-JavaScript   5 mins          ███████▓░░░░░░░░░░░░░░░░░   30.82 % 
-YAML         1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
+JavaScript   5 mins          ██████████████▒░░░░░░░░░░   56.91 % 
+Markdown     2 mins          ███████▓░░░░░░░░░░░░░░░░░   30.88 % 
+YAML         1 min           ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
 ```
 <!--END_SECTION:waka-->
 
