@@ -7,9 +7,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 October, 2020 - 04 November, 2020
-
-Markdown   2 mins          █████████████████████████   100.00 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
