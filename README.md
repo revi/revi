@@ -7,7 +7,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 02 November, 2020 - 09 November, 2020
+
+HTML   6 mins          █████████████████████████   99.85 % 
 ```
 <!--END_SECTION:waka-->
 
