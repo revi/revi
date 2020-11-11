@@ -6,7 +6,7 @@ on:
     # Runs at midnight UTC (09:00 KST)
     # Wakatime uses UTC as their date stuff, so it is just a better idea to use
     # UTC for the timezone business.
-    - cron: '0 0 * * *'
+    - cron: '1 0 * * *'
 jobs:
   update-readme:
     name: Update repo readmefile
