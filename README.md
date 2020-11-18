@@ -7,10 +7,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 November, 2020 - 16 November, 2020
+Week: 10 November, 2020 - 17 November, 2020
 
-YAML       39 mins         ██████████████████████░░░   87.61 % 
-Markdown   5 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
+
 ```
 <!--END_SECTION:waka-->
 
