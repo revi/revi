@@ -7,9 +7,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 27 November, 2020 - 04 December, 2020
+Week: 28 November, 2020 - 05 December, 2020
 
-Python     3 mins          ████████████████████░░░░░   79.53 % 
+
 ```
 <!--END_SECTION:waka-->
 
