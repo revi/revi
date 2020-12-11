@@ -7,9 +7,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 December, 2020 - 09 December, 2020
+Week: 03 December, 2020 - 10 December, 2020
 
-YAML       26 mins         ████████████████████████▒   96.79 % 
+YAML    26 mins         █████████████████████████   99.95 % 
 ```
 <!--END_SECTION:waka-->
 
