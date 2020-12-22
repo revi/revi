@@ -7,11 +7,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 December, 2020 - 20 December, 2020
+Week: 14 December, 2020 - 21 December, 2020
 
-YAML       51 mins         ████████████████▒░░░░░░░░   65.78 % 
-SQL        13 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.30 % 
-Other      12 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+SQL     13 mins         ████████████▓░░░░░░░░░░░░   51.14 % 
+Other   12 mins         ████████████░░░░░░░░░░░░░   47.68 % 
 ```
 <!--END_SECTION:waka-->
 
