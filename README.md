@@ -7,10 +7,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 December, 2020 - 21 December, 2020
+Week: 15 December, 2020 - 22 December, 2020
 
-SQL     13 mins         ████████████▓░░░░░░░░░░░░   51.14 % 
-Other   12 mins         ████████████░░░░░░░░░░░░░   47.68 % 
+SQL     13 mins         ███████████▒░░░░░░░░░░░░░   44.80 % 
+Other   12 mins         ██████████▒░░░░░░░░░░░░░░   41.77 % 
+XML     3 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.14 % 
 ```
 <!--END_SECTION:waka-->
 
