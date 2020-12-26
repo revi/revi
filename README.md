@@ -31,7 +31,7 @@ Provided via [abhisheknaiidu/todoist-readme](https://github.com/abhisheknaiidu/t
 
 * [Wakatime stats](https://github.com/revi/revi/blob/master/wakatime.md)
 * [Wakatime leaderboard](https://wakatime.com/leaders/sec/0d630197-9761-422d-b67c-cd71547c0642/join/taeasttxvy)
-* [Sourcerer.io](https://sourcerer.io/revi)
+* [Sourcerer.io](https://archive.is/cAhEV) (archive, original website inaccessible.)
 * [Testimonials](https://github.com/revi/revi/blob/master/testimonial.md)
 
 <details>
