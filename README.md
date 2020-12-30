@@ -7,10 +7,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 December, 2020 - 28 December, 2020
+Week: 22 December, 2020 - 29 December, 2020
 
-XML        3 mins          ████████████████████░░░░░   79.82 % 
-Markdown   1 min           █████░░░░░░░░░░░░░░░░░░░░   20.18 % 
+Markdown   4 mins          ███████████████▓░░░░░░░░░   62.00 % 
+PHP        2 mins          ████████▓░░░░░░░░░░░░░░░░   34.53 % 
 ```
 <!--END_SECTION:waka-->
 
