@@ -7,10 +7,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 December, 2020 - 30 December, 2020
+Week: 24 December, 2020 - 31 December, 2020
 
-Markdown   4 mins          ███████████████▓░░░░░░░░░   62.00 % 
-PHP        2 mins          ████████▓░░░░░░░░░░░░░░░░   34.53 % 
+Markdown   4 mins          ███████████████░░░░░░░░░░   59.45 % 
+PHP        2 mins          █████████▒░░░░░░░░░░░░░░░   37.22 % 
 ```
 <!--END_SECTION:waka-->
 
