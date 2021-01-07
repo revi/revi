@@ -7,7 +7,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 29 December, 2020 - 05 January, 2021
+Week: 30 December, 2020 - 06 January, 2021
 
 Bash    29 mins         █████████████▒░░░░░░░░░░░   52.87 % 
 JSON    24 mins         ███████████░░░░░░░░░░░░░░   43.54 % 
