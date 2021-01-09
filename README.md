@@ -7,11 +7,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 31 December, 2020 - 07 January, 2021
+Week: 01 January, 2021 - 08 January, 2021
 
-Bash    29 mins         █████████████▒░░░░░░░░░░░   53.18 % 
-JSON    24 mins         ███████████░░░░░░░░░░░░░░   43.79 % 
-PHP     1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+JSON            24 mins         ██████████████████░░░░░░░   72.62 % 
+Apache Config   7 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.97 % 
+Other           1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
 ```
 <!--END_SECTION:waka-->
 
