@@ -18,10 +18,10 @@ Provided via [athul/waka-readme](https://github.com/athul/waka-readme).
 
 ## Todoist Stats
 <!-- TODO-IST:START -->
-🏆  13,142 Karma Points           
-🌸  Completed 4 tasks today           
-🗓  Completed 17 tasks this week           
-✅  Completed 1,276 tasks so far           
+🏆  13,148 Karma Points           
+🌸  Completed 1 tasks today           
+🗓  Completed 18 tasks this week           
+✅  Completed 1,277 tasks so far           
 ⏳  Longest streak is 40 days
 <!-- TODO-IST:END -->
 
