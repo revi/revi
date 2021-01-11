@@ -7,7 +7,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 January, 2021 - 09 January, 2021
+Week: 03 January, 2021 - 10 January, 2021
 
 Apache Config   7 mins          ███████████████████▓░░░░░   78.89 % 
 Other           1 min           █████▒░░░░░░░░░░░░░░░░░░░   21.11 % 
