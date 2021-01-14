@@ -7,10 +7,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 January, 2021 - 12 January, 2021
+Week: 06 January, 2021 - 13 January, 2021
 
-Apache Config   7 mins          ███████████████████▓░░░░░   78.89 % 
-Other           1 min           █████▒░░░░░░░░░░░░░░░░░░░   21.11 % 
+Other           2 hrs 11 mins   ████████████████████▓░░░░   82.90 % 
+YAML            19 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+Apache Config   7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
 ```
 <!--END_SECTION:waka-->
 
