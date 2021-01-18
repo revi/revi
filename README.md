@@ -7,10 +7,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 January, 2021 - 16 January, 2021
+Week: 10 January, 2021 - 17 January, 2021
 
-Other   6 hrs 10 mins   ███████████████████████▓░   94.91 % 
-YAML    19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
+Other   7 hrs 40 mins   ████████████████████████░   95.87 % 
+YAML    19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
 ```
 <!--END_SECTION:waka-->
 
