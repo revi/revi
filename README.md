@@ -7,9 +7,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 February, 2021 - 12 February, 2021
+Week: 06 February, 2021 - 13 February, 2021
 
-Other   38 hrs 24 mins  █████████████████████████   100.00 % 
+Other   41 hrs 54 mins  █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
