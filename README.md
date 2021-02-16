@@ -7,9 +7,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 February, 2021 - 14 February, 2021
-
-Other   36 hrs 24 mins  █████████████████████████   100.00 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
