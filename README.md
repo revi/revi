@@ -7,10 +7,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 March, 2021 - 30 March, 2021
+Week: 24 March, 2021 - 31 March, 2021
 
-Other   1 hr 20 mins    ██████████████████████▓░░   91.10 % 
-Text    7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
+Other   30 mins         ███████████████████▓░░░░░   79.33 % 
+Text    7 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.67 % 
 ```
 <!--END_SECTION:waka-->
 
