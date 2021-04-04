@@ -7,10 +7,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 26 March, 2021 - 02 April, 2021
-
-Other   30 mins         ███████████████████▓░░░░░   79.33 % 
-Text    7 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.67 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
