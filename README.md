@@ -7,7 +7,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 02 April, 2021 - 09 April, 2021
+
+Other   2 hrs           ███████████████████████▒░   93.64 % 
+YAML    8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
 ```
 <!--END_SECTION:waka-->
 
