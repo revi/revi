@@ -7,7 +7,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 April, 2021 - 09 April, 2021
+Week: 03 April, 2021 - 10 April, 2021
 
 Other   2 hrs           ███████████████████████▒░   93.64 % 
 YAML    8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
