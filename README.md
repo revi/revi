@@ -7,10 +7,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 April, 2021 - 13 April, 2021
+Week: 07 April, 2021 - 14 April, 2021
 
-Other   30 mins         ███████████████████▓░░░░░   78.63 % 
-YAML    8 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.37 % 
+Other   1 hr 20 mins    ██████████████████████▓░░   90.75 % 
+YAML    8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
 ```
 <!--END_SECTION:waka-->
 
