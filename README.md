@@ -7,7 +7,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 30 May, 2021 - 06 June, 2021
+
+Other   1 hr            ███████████████▒░░░░░░░░░   61.62 % 
+JSON    37 mins         █████████▓░░░░░░░░░░░░░░░   38.38 % 
 ```
 <!--END_SECTION:waka-->
 
