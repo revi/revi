@@ -7,10 +7,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 June, 2021 - 11 June, 2021
+Week: 05 June, 2021 - 12 June, 2021
 
-JSON    56 mins         ████████████▓░░░░░░░░░░░░   50.83 % 
-Other   55 mins         ████████████▒░░░░░░░░░░░░   49.17 % 
+Other   3 hrs 55 mins   ████████████████████░░░░░   80.52 % 
+JSON    56 mins         █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
 ```
 <!--END_SECTION:waka-->
 
