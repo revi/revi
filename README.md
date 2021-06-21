@@ -7,7 +7,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 13 June, 2021 - 20 June, 2021
+
+Other   5 hrs 30 mins   ████████████████████████▓   99.01 % 
+YAML    3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 ```
 <!--END_SECTION:waka-->
 
