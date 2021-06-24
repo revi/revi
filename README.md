@@ -7,7 +7,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 15 June, 2021 - 22 June, 2021
+Week: 17 June, 2021 - 23 June, 2021
 
 Other   5 hrs 30 mins   ████████████████████████▓   99.01 % 
 YAML    3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
