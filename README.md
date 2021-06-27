@@ -7,10 +7,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 19 June, 2021 - 25 June, 2021
+Week: 20 June, 2021 - 26 June, 2021
 
-Other   30 mins         ██████████████████████▓░░   90.06 % 
-YAML    3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
+Other   1 hr 30 mins    ████████████████████████░   96.45 % 
+YAML    3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
 ```
 <!--END_SECTION:waka-->
 
