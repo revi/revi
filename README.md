@@ -7,7 +7,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 02 July, 2021 - 08 July, 2021
+
+Other      1 hr 30 mins    █████████████████████▓░░░   86.28 % 
+JSON       12 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
+Markdown   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
 ```
 <!--END_SECTION:waka-->
 
