@@ -7,7 +7,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 July, 2021 - 11 July, 2021
+Week: 06 July, 2021 - 12 July, 2021
 
 Other      1 hr 30 mins    █████████████████████▓░░░   86.28 % 
 JSON       12 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
