@@ -7,10 +7,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 19 July, 2021 - 25 July, 2021
+Week: 20 July, 2021 - 26 July, 2021
 
-Other   1 hr 10 mins    ███████████████████▓░░░░░   79.27 % 
-JSON    18 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.73 % 
+Other   2 hrs 40 mins   ██████████████████████▒░░   89.73 % 
+JSON    18 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
 ```
 <!--END_SECTION:waka-->
 
