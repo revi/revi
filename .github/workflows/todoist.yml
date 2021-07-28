@@ -2,9 +2,9 @@ name: Todoist Readme Update
 
 on:
   workflow_dispatch:
-  schedule:
+#  schedule:
     # Runs at 14:45 UTC (23:45 KST) every day
-    - cron: '45 14 * * *'
+#    - cron: '45 14 * * *'
 
 jobs:
   update-readme:
