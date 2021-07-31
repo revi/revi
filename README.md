@@ -7,11 +7,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 July, 2021 - 29 July, 2021
+Week: 24 July, 2021 - 30 July, 2021
 
-Other        2 hrs 40 mins   ██████████████████████▒░░   88.95 % 
-JavaScript   14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
-YAML         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+Other        2 hrs           █████████████████████▒░░░   85.79 % 
+JavaScript   14 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+YAML         4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
 ```
 <!--END_SECTION:waka-->
 
