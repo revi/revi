@@ -7,11 +7,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 July, 2021 - 03 August, 2021
-
-Other        1 hr            ██████████████████▓░░░░░░   75.12 % 
-JavaScript   14 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.26 % 
-YAML         4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
