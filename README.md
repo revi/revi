@@ -7,10 +7,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 August, 2021 - 09 August, 2021
+Week: 04 August, 2021 - 10 August, 2021
 
-Other   1 hr 30 mins    ██████████████████████▒░░   88.86 % 
-JSON    11 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
+Other   1 hr 10 mins    █████████████████████▓░░░   86.12 % 
+JSON    11 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.88 % 
 ```
 <!--END_SECTION:waka-->
 
