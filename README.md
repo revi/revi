@@ -2,6 +2,7 @@
 
 * Lazy amateur translator, real newbie coder, chief laziness officer.
 * [Homepage](https://revi.omg.lol)
+** [Profile](https://profile.omg.lol/revi)
 
 ## Wakatime Stats for last 7 days
 
@@ -12,17 +13,6 @@ No Activity tracked this Week
 <!--END_SECTION:waka-->
 
 Provided via [athul/waka-readme](https://github.com/athul/waka-readme).
-
-## Todoist Stats
-<!-- TODO-IST:START -->
-🏆  17,383 Karma Points           
-🌸  Completed 5 tasks today           
-🗓  Completed 19 tasks this week           
-✅  Completed 2,241 tasks so far           
-⏳  Longest streak is 74 days
-<!-- TODO-IST:END -->
-
-Provided via [abhisheknaiidu/todoist-readme](https://github.com/abhisheknaiidu/todoist-readme)
 
 ## Various links
 
