@@ -1,8 +1,7 @@
 # Yongmin Hong (revi)
 
 * Lazy amateur translator, real newbie coder, chief laziness officer.
-* [Homepage](https://revi.omg.lol)
-** [Profile](https://profile.omg.lol/revi)
+* [Homepage](https://revi.omg.lol) ([Profile](https://profile.omg.lol/revi))
 
 ## Wakatime Stats for last 7 days
 
