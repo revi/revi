@@ -7,7 +7,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 15 August, 2021 - 21 August, 2021
+Week: 16 August, 2021 - 22 August, 2021
 
 Other        4 hrs 20 mins   ███████████████████████▒░   93.29 % 
 Markdown     10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
