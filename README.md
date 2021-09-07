@@ -7,7 +7,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 31 August, 2021 - 06 September, 2021
+
+JSON   4 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
