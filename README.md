@@ -7,7 +7,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 September, 2021 - 08 September, 2021
+Week: 03 September, 2021 - 09 September, 2021
 
 JSON    4 mins          ███████████▓░░░░░░░░░░░░░   47.18 % 
 Other   3 mins          ██████████▓░░░░░░░░░░░░░░   43.25 % 
