@@ -4,6 +4,7 @@
 * [Homepage](https://revi.omg.lol) ([Profile](https://profile.omg.lol/revi))
 
 ## Wakatime Stats for last 7 days
+[![wakatime](https://wakatime.com/badge/user/d0012b89-4235-495d-b0c3-f9667df0e042.svg)](https://wakatime.com/@d0012b89-4235-495d-b0c3-f9667df0e042)
 
 <!--START_SECTION:waka-->
 ```text
