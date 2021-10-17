@@ -8,11 +8,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 October, 2021 - 15 October, 2021
+Week: 10 October, 2021 - 16 October, 2021
 
-Docker     18 mins         █████████████████░░░░░░░░   68.01 % 
-YAML       7 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.80 % 
-Markdown   1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+YAML       6 mins          ████████████████████▓░░░░   83.05 % 
+Markdown   1 min           ████▒░░░░░░░░░░░░░░░░░░░░   16.95 % 
 ```
 <!--END_SECTION:waka-->
 
