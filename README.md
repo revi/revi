@@ -8,10 +8,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 10 October, 2021 - 16 October, 2021
+Week: 11 October, 2021 - 17 October, 2021
 
-YAML       6 mins          ████████████████████▓░░░░   83.05 % 
-Markdown   1 min           ████▒░░░░░░░░░░░░░░░░░░░░   16.95 % 
+HTML       2 mins          ███████████████▒░░░░░░░░░   61.03 % 
+Markdown   1 min           █████████▓░░░░░░░░░░░░░░░   38.97 % 
 ```
 <!--END_SECTION:waka-->
 
