@@ -8,7 +8,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 October, 2021 - 18 October, 2021
+Week: 13 October, 2021 - 19 October, 2021
 
 HTML       2 mins          ███████████████▒░░░░░░░░░   61.03 % 
 Markdown   1 min           █████████▓░░░░░░░░░░░░░░░   38.97 % 
