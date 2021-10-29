@@ -8,11 +8,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 October, 2021 - 27 October, 2021
-
-Markdown   7 mins          ███████████░░░░░░░░░░░░░░   43.50 % 
-Text       5 mins          ███████▓░░░░░░░░░░░░░░░░░   30.81 % 
-Bash       4 mins          ██████░░░░░░░░░░░░░░░░░░░   24.48 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
