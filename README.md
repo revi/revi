@@ -8,7 +8,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 26 October, 2021 - 01 November, 2021
+
+JSON   1 min           ████████████████▓░░░░░░░░   66.42 % 
 ```
 <!--END_SECTION:waka-->
 
