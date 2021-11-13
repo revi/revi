@@ -8,7 +8,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 November, 2021 - 11 November, 2021
+Week: 06 November, 2021 - 12 November, 2021
 
 Other   14 mins         ████████████▓░░░░░░░░░░░░   51.16 % 
 XML     8 mins          ███████▒░░░░░░░░░░░░░░░░░   29.36 % 
