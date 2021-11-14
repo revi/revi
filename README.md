@@ -8,11 +8,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 November, 2021 - 12 November, 2021
+Week: 07 November, 2021 - 13 November, 2021
 
-Other   14 mins         ████████████▓░░░░░░░░░░░░   51.16 % 
-XML     8 mins          ███████▒░░░░░░░░░░░░░░░░░   29.36 % 
-JSON    5 mins          █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
+Other      17 mins         ██████████░░░░░░░░░░░░░░░   40.50 % 
+Markdown   11 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.23 % 
+XML        8 mins          █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+JSON       5 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.27 % 
 ```
 <!--END_SECTION:waka-->
 
