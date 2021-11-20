@@ -8,7 +8,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 November, 2021 - 18 November, 2021
+Week: 13 November, 2021 - 19 November, 2021
 
 Markdown   13 mins         █████████████████████░░░░   84.54 % 
 Other      2 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
