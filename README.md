@@ -8,10 +8,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 November, 2021 - 23 November, 2021
+Week: 18 November, 2021 - 24 November, 2021
 
-JSON       20 mins         ███████████████████████▒░   93.84 % 
-Markdown   1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+JSON   20 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
