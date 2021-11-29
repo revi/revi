@@ -8,9 +8,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 November, 2021 - 27 November, 2021
-
-
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
