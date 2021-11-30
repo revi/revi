@@ -8,7 +8,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 23 November, 2021 - 29 November, 2021
+
+Bash    6 mins          █████████████░░░░░░░░░░░░   51.92 % 
+Other   4 mins          █████████░░░░░░░░░░░░░░░░   35.40 % 
+Text    1 min           ███▒░░░░░░░░░░░░░░░░░░░░░   12.68 % 
 ```
 <!--END_SECTION:waka-->
 
