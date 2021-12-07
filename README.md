@@ -8,12 +8,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 29 November, 2021 - 05 December, 2021
+Week: 30 November, 2021 - 06 December, 2021
 
-Text    7 mins          ████████▓░░░░░░░░░░░░░░░░   35.15 % 
-Bash    6 mins          ████████░░░░░░░░░░░░░░░░░   31.70 % 
-Other   4 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.61 % 
-YAML    2 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+Text   5 mins          █████████████████▓░░░░░░░   70.38 % 
+YAML   2 mins          ███████▒░░░░░░░░░░░░░░░░░   29.62 % 
 ```
 <!--END_SECTION:waka-->
 
