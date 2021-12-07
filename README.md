@@ -19,6 +19,8 @@ Provided via [athul/waka-readme](https://github.com/athul/waka-readme).
 
 ## Various links
 
+![Discord](https://img.shields.io/discord/446358054955384832?logo=discord&style=social)
+
 * [Wakatime stats](https://github.com/revi/revi/blob/master/wakatime.md)
 * [Wakatime leaderboard](https://wakatime.com/leaders/sec/0d630197-9761-422d-b67c-cd71547c0642/join/taeasttxvy)
 * [Sourcerer.io](https://archive.is/cAhEV) (archive, original website inaccessible.)
