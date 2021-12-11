@@ -8,7 +8,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 December, 2021 - 09 December, 2021
+Week: 04 December, 2021 - 10 December, 2021
 
 JSON       20 mins         █████████████░░░░░░░░░░░░   51.59 % 
 Markdown   11 mins         ███████▒░░░░░░░░░░░░░░░░░   29.12 % 
