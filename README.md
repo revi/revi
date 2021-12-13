@@ -1,5 +1,6 @@
-# Yongmin Hong (revi)
+# Hong Yongmin (revi)
 
+* *In this [Korean name](https://en.wikipedia.org/wiki/Korean_name), the family name is [Hong](https://en.wikipedia.org/wiki/Hong_(Korean_surname)).*
 * Lazy amateur translator, real newbie coder, chief laziness officer.
 * [Homepage](https://revi.omg.lol) ([Profile](https://profile.omg.lol/revi))
 
