@@ -9,11 +9,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 December, 2021 - 19 December, 2021
+Week: 14 December, 2021 - 20 December, 2021
 
-JSON       11 mins         ██████████████████▒░░░░░░   73.65 % 
-Markdown   2 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
-Other      1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
+JSON    11 mins         ██████████████████████░░░   87.79 % 
+Other   1 min           ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
 ```
 <!--END_SECTION:waka-->
 
