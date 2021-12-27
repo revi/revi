@@ -9,12 +9,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 19 December, 2021 - 25 December, 2021
+Week: 20 December, 2021 - 26 December, 2021
 
-YAML       12 mins         ████████████████▓░░░░░░░░   66.58 % 
-JSON       2 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.92 % 
-Bash       1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
-Markdown   1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
+YAML       12 mins         ███████████████████▓░░░░░   78.25 % 
+Bash       1 min           ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
+Markdown   1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
 ```
 <!--END_SECTION:waka-->
 
