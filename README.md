@@ -9,11 +9,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 December, 2021 - 29 December, 2021
-
-YAML       12 mins         ███████████████████▓░░░░░   78.25 % 
-Bash       1 min           ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
-Markdown   1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
