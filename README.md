@@ -9,7 +9,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 31 January, 2022 - 06 February, 2022
+
+HTML   15 mins         █████████████████▓░░░░░░░   70.14 % 
+JSON   6 mins          ███████▒░░░░░░░░░░░░░░░░░   29.86 % 
 ```
 <!--END_SECTION:waka-->
 
