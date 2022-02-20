@@ -9,9 +9,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 February, 2022 - 18 February, 2022
-
-Total: 17 mins
+Week: 13 February, 2022 - 19 February, 2022
 
 JSON       16 mins         ████████████████████████░   95.49 % 
 ```
