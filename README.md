@@ -9,9 +9,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 February, 2022 - 19 February, 2022
+Week: 14 February, 2022 - 20 February, 2022
 
-JSON       16 mins         ████████████████████████░   95.49 % 
+JSON       15 mins         ███████████████████████▓░   95.10 % 
 ```
 <!--END_SECTION:waka-->
 
