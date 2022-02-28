@@ -8,9 +8,11 @@
 [![wakatime](https://wakatime.com/badge/user/d0012b89-4235-495d-b0c3-f9667df0e042.svg)](https://wakatime.com/@d0012b89-4235-495d-b0c3-f9667df0e042)
 
 <!--START_SECTION:waka-->
+
 ```text
-No Activity tracked this Week
+No activity tracked
 ```
+
 <!--END_SECTION:waka-->
 
 Provided via [athul/waka-readme](https://github.com/athul/waka-readme).
