@@ -11,9 +11,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 April 2022 - To: 03 May 2022
+From: 27 April 2022 - To: 04 May 2022
 
-Markdown   9 mins          █████████████████████████   100.00 %
+JSON       11 mins         █████████████▓░░░░░░░░░░░   54.89 %
+Markdown   9 mins          ███████████▒░░░░░░░░░░░░░   45.11 %
 ```
 
 <!--END_SECTION:waka-->
