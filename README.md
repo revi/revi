@@ -11,7 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 May 2022 - To: 13 May 2022
+From: 07 May 2022 - To: 14 May 2022
 
 JSON    19 mins         ████████████████████████░   95.37 %
 Other   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 %
