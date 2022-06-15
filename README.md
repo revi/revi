@@ -11,7 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 June 2022 - To: 13 June 2022
+From: 07 June 2022 - To: 14 June 2022
 
 YAML         1 hr 44 mins    ████████████▓░░░░░░░░░░░░   50.81 %
 TOML         48 mins         ██████░░░░░░░░░░░░░░░░░░░   23.62 %
