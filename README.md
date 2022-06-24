@@ -11,11 +11,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 June 2022 - To: 22 June 2022
+From: 16 June 2022 - To: 23 June 2022
 
-YAML       49 mins         ████████████████████████░   96.26 %
-Markdown   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
-Other      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+YAML       49 mins         █████████████████████▒░░░   85.68 %
+Markdown   7 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.64 %
+Other      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
 ```
 
 <!--END_SECTION:waka-->
