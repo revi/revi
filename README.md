@@ -5,7 +5,13 @@
 * [he/him unless otherwise specified](https://en.pronouns.page/@revi).
 * [Homepage](https://revi.omg.lol) ([Profile & Contact](https://profile.omg.lol/revi), [MicroBlog](https://revi.blog/)).
 
+## Latest activity
+
+![GitHub Activities](metrics.activity.svg)
+Provided via [lowlighter/metrics](https://github.com/lowlighter/metrics)
+
 ## Wakatime Stats for last 7 days
+
 [![wakatime](https://wakatime.com/badge/user/d0012b89-4235-495d-b0c3-f9667df0e042.svg)](https://wakatime.com/@d0012b89-4235-495d-b0c3-f9667df0e042)
 
 <!--START_SECTION:waka-->
