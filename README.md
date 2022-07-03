@@ -17,10 +17,11 @@ Provided via [lowlighter/metrics](https://github.com/lowlighter/metrics)
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 June 2022 - To: 01 July 2022
+From: 25 June 2022 - To: 02 July 2022
 
-HTML       6 mins          ███████████████████████▒░   92.90 %
-Markdown   0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.10 %
+HTML       6 mins          █████████████████████░░░░   83.71 %
+ERB        0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.90 %
+Markdown   0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.40 %
 ```
 
 <!--END_SECTION:waka-->
