@@ -17,7 +17,7 @@ Provided via [lowlighter/metrics](https://github.com/lowlighter/metrics)
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 July 2022 - To: 13 July 2022
+From: 07 July 2022 - To: 14 July 2022
 
 Other      11 mins         █████████████▓░░░░░░░░░░░   54.83 %
 ```
