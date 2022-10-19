@@ -17,10 +17,7 @@ Provided via [lowlighter/metrics](https://github.com/lowlighter/metrics)
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 October 2022 - To: 17 October 2022
-
-JSON    0 secs          ██████████████████████░░░   87.42 %
-Other   0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   12.58 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
