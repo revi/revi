@@ -17,11 +17,11 @@ Provided via [lowlighter/metrics](https://github.com/lowlighter/metrics)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 June 2023 - To: 05 July 2023
+From: 29 June 2023 - To: 06 July 2023
 
-Terraform   21 mins         ███████████████████▒░░░░░   77.00 %
-Other       5 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.34 %
-JSON        1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 %
+Terraform   21 mins         ███████████████████████▓░   94.08 %
+JSON        1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.69 %
+Other       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
