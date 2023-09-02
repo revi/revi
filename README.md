@@ -3,7 +3,7 @@
 * *In this [Korean name](https://en.wikipedia.org/wiki/Korean_name), the family name is [Hong](https://en.wikipedia.org/wiki/Hong_(Korean_surname)).*
 * Lazy amateur translator, real newbie coder, chief laziness officer.
 * [he/him unless otherwise specified](https://en.pronouns.page/@revi).
-* [Homepage](https://revi.xyz) ([Profile & Contact](https://profile.revi.xyz)<!--, [MicroBlog](https://revi.blog/))-->.
+* [Homepage](https://revi.xyz) ([More verbose profile & contact details](https://profile.revi.xyz)<!--, [MicroBlog](https://revi.blog/)-->).
 
 ## Latest activity
 
