@@ -3,11 +3,12 @@
 * *In this [Korean name](https://en.wikipedia.org/wiki/Korean_name), the family name is [Hong](https://en.wikipedia.org/wiki/Hong_(Korean_surname)).*
 * Lazy amateur translator, real newbie coder, chief laziness officer.
 * [he/him unless otherwise specified](https://en.pronouns.page/@revi).
-* [Homepage](https://revi.omg.lol) ([Profile & Contact](https://profile.omg.lol/revi), [MicroBlog](https://revi.blog/)).
+* [Homepage](https://revi.xyz) ([Profile & Contact](https://profile.revi.xyz)<!--, [MicroBlog](https://revi.blog/))-->.
 
 ## Latest activity
 
 ![GitHub Activities](metrics.activity.svg)
+
 Provided via [lowlighter/metrics](https://github.com/lowlighter/metrics)
 
 ## Wakatime Stats for last 7 days
