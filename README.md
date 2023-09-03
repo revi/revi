@@ -18,9 +18,12 @@ Provided via [lowlighter/metrics](https://github.com/lowlighter/metrics)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 August 2023 - To: 01 September 2023
+From: 26 August 2023 - To: 02 September 2023
 
-No activity tracked
+YAML       1 hr 17 mins    ███████████████████▒░░░░░   76.71 %
+Ezhil      16 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.49 %
+Markdown   6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
