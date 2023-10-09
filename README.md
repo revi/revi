@@ -18,7 +18,7 @@ Provided via [lowlighter/metrics](https://github.com/lowlighter/metrics)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 September 2023 - To: 07 October 2023
+From: 01 October 2023 - To: 08 October 2023
 
 No activity tracked
 ```
