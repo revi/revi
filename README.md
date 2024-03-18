@@ -18,9 +18,11 @@ Provided via [lowlighter/metrics](https://github.com/lowlighter/metrics)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 March 2024 - To: 16 March 2024
+From: 10 March 2024 - To: 17 March 2024
 
-No activity tracked
+Bash    7 mins          ████████████▓░░░░░░░░░░░░   50.10 %
+JSON    4 mins          ███████▒░░░░░░░░░░░░░░░░░   29.85 %
+Other   3 mins          █████░░░░░░░░░░░░░░░░░░░░   20.05 %
 ```
 
 <!--END_SECTION:waka-->
