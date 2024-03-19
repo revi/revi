@@ -18,7 +18,7 @@ Provided via [lowlighter/metrics](https://github.com/lowlighter/metrics)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 March 2024 - To: 17 March 2024
+From: 11 March 2024 - To: 18 March 2024
 
 Bash    7 mins          ████████████▓░░░░░░░░░░░░   50.10 %
 JSON    4 mins          ███████▒░░░░░░░░░░░░░░░░░   29.85 %
