@@ -30,4 +30,22 @@ jobs:
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
           user: revi
           plugin_wakatime_repositories_visibility: public
-
+      - name: "Intro"
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.intro.svg
+          token: NOT_NEEDED
+          base: header
+          plugin_introduction: yes
+          user: revi
+      - name: "Steam"
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.steam.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
+          plugin_steam: yes
+          plugin_steam_user: "76561198085745329"
+          plugin_steam_games_limit: 3
+          plugin_steam_recent_games_limit: 3
