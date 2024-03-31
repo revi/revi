@@ -37,7 +37,7 @@ XML          0 secs          ░░░░░░░░░░░░░░░░░
 
 ## Various links
 
-[![Discord](https://img.shields.io/discord/446358054955384832?logo=discord&style=social)](https ://revi.url.lol/discord)
+[![Discord](https://img.shields.io/discord/446358054955384832?logo=discord&style=social)](https://revi.url.lol/discord)
 
 * [Wakatime stats](https://github.com/revi/revi/blob/master/wakatime.md)
 * [Wakatime leaderboard](https://wakatime.com/leaders/sec/0d630197-9761-422d-b67c-cd71547c0642/join/taeasttxvy)
