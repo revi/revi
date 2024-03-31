@@ -18,12 +18,12 @@ Provided via [lowlighter/metrics](https://github.com/lowlighter/metrics)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 March 2024 - To: 29 March 2024
+From: 23 March 2024 - To: 30 March 2024
 
-PowerShell   21 mins         ██████████████░░░░░░░░░░░   55.46 %
-Bash         13 mins         █████████░░░░░░░░░░░░░░░░   35.46 %
-Other        3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.74 %
-XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+PowerShell   18 mins         █████████████░░░░░░░░░░░░   51.81 %
+Bash         13 mins         █████████▓░░░░░░░░░░░░░░░   38.36 %
+Other        3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.46 %
+XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
 ```
 
 <!--END_SECTION:waka-->
