@@ -1,1 +1,3 @@
-This community follows the [Revi's community Code of Conduct](https://bugs.revi.xyz/L4).
+# [Don’t be an asshole, and don’t be tolerant of assholes.](https://asshole.fyi/)
+
+That simple.
