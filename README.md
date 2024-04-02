@@ -21,12 +21,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 March 2024 - To: 31 March 2024
+From: 25 March 2024 - To: 01 April 2024
 
-PowerShell   18 mins         █████████████░░░░░░░░░░░░   51.81 %
-Bash         13 mins         █████████▓░░░░░░░░░░░░░░░   38.36 %
-Other        3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.46 %
-XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+Bash    13 mins         █████████████████████▓░░░   86.00 %
+Other   2 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.00 %
 ```
 
 <!--END_SECTION:waka-->
