@@ -48,7 +48,7 @@ jobs:
           plugin_steam: yes
           plugin_steam_user: "76561198085745329"
           plugin_steam_games_limit: 3
-                    plugin_steam_recent_games_limit: 3
+          plugin_steam_recent_games_limit: 3
       - name: "Recent activity charts"
         uses: lowlighter/metrics@latest
         with:
