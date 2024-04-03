@@ -1,13 +1,13 @@
 ---
 name: YAML Lint
-on: 
+on:
   push:
     paths:
       - '**.yml'
       - '**.yaml'
       - '.yamllint'
   pull_request:
-    paths: 
+    paths:
       - '**.yml'
       - '**.yaml'
       - '.yamllint'
@@ -17,4 +17,4 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: yaml-lint
-        uses: ibiqlik/action-yamllint@v3 
+        uses: ibiqlik/action-yamllint@v3
