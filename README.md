@@ -10,7 +10,7 @@
 
 ## Latest activity
 
-![GitHub Activities](metrics.activity.svg)
+![GitHub Activities](metrics/activity.svg)
 
 * Provided via [lowlighter/metrics](https://github.com/lowlighter/metrics)
 
@@ -32,15 +32,14 @@ Text    0 secs          ▒░░░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-![metrics svg](metrics.wakatime.svg)
+![metrics svg](metrics/wakatime.svg)
 
 * Provided via [athul/waka-readme](https://github.com/athul/waka-readme), [lowlighter/metrics](https://github.com/lowlighter/metrics) ([Wakatime native stats](https://github.com/revi/revi/blob/master/wakatime.md))
 
 ## Various links
 
-[![Discord](https://img.shields.io/discord/446358054955384832?logo=discord&style=social)](https://revi.url.lol/discord)
+[![Discord](https://img.shields.io/discord/446358054955384832?logo=discord&style=social)](https://revi.xyz/discord)
 
-* [Wakatime stats](https://github.com/revi/revi/blob/master/wakatime.md)
 * [Wakatime leaderboard](https://wakatime.com/leaders/sec/0d630197-9761-422d-b67c-cd71547c0642/join/taeasttxvy)
 * [pinboard.in](https://pinboard.in/u:revi)
 * [Sourcerer.io](https://archive.is/cAhEV) (archive, original website inaccessible.)
