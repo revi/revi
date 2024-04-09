@@ -35,7 +35,7 @@ jobs:
         with:
           filename: metrics/intro.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: header
+          base: header, repositories
           plugin_introduction: yes
           user: revi
       - name: "Steam"
