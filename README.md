@@ -21,12 +21,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 April 2024 - To: 08 April 2024
+From: 02 April 2024 - To: 09 April 2024
 
-Other   13 mins         ██████████████████▓░░░░░░   75.00 %
-Git     3 mins          █████░░░░░░░░░░░░░░░░░░░░   20.38 %
-JSON    0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
-Text    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
+Other   2 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
