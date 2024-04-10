@@ -3,6 +3,7 @@
 
 
 * *In this [Korean name](https://en.wikipedia.org/wiki/Korean_name), the family name is [Hong](https://en.wikipedia.org/wiki/Hong_(Korean_surname)).*
+  * GitHub profile metadata does not have my family name as too much *Western* people always assumed the order is FIRSTNAME LASTNAME.
 * Lazy amateur translator, real newbie coder, chief laziness officer.
 * [he/him unless otherwise specified](https://en.pronouns.page/@revi).
 * [Homepage](https://revi.xyz) ([More verbose profile & contact details](https://profile.revi.xyz), [MicroBlog](https://revi.blog/)).
@@ -44,6 +45,8 @@ Other   2 mins          ██████████████████�
 <details>
 <summary>GitHub Stats</summary>
 <a href="https://github-readme-stats.vercel.app"><img src="https://github-readme-stats.vercel.app/api?username=revi&count_private=true&show_icons=true&theme=solarized-light&include_all_commits=true" alt="revi's GitHub stats" align=right /></a>
+
+![metrics svg](metrics/intro.svg)
 </details>
 
 <!--
