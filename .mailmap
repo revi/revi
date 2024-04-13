@@ -1,0 +1,11 @@
+# Map (group) canonical committer name/email and alternative ones.
+# Format:
+# Canonical name <canonical@email>
+# Canonical name <canonical@email> <alt@email>
+# Canonical name <canonical@email> Alt name <alt2@email>
+# CF: https://git-scm.com/docs/git-shortlog#_mapping_authors
+#
+
+Yongmin Hong <revi@omglol.email>
+Yongmin Hong <revi@omglol.email> <revi@pobox.com>
+Yongmin Hong <revi@omglol.email> Yongmin <revi@pobox.com>
