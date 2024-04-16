@@ -97,4 +97,4 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_calendar: yes
-          plugin_calendar_limit: -2
+          plugin_calendar_limit: 0
