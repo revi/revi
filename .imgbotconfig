@@ -1,0 +1,9 @@
+{
+    "schedule": "weekly",
+    "ignoredFiles": [
+      "metrics/*"
+    ],
+    "aggressiveCompression": "true",
+    "compressWiki": "false",
+    "minKBReduced": 100,
+}
