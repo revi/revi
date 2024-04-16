@@ -4,9 +4,13 @@
 
 ![GitHub Activities](activity.svg)
 
+## Calendar
+
+![GitHub Calendar](calendar.svg]
+
 ## Follow Up
 
-![Github Followup](followupuser.svg)
+![GitHub Followup](followupuser.svg)
 
 ## Habit Chart
 
