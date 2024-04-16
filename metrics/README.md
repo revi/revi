@@ -6,7 +6,7 @@
 
 ## Calendar
 
-![GitHub Calendar](calendar.svg]
+![GitHub Calendar](calendar.svg)
 
 ## Follow Up
 
