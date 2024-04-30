@@ -1,12 +1,12 @@
 # Hong Yongmin (revi)
 <!-- All internal links should still be made w/ full URL (rather than relative links) due to the rendering errors when displayed in profile page -->
 
-
 * *In this [Korean name](https://en.wikipedia.org/wiki/Korean_name), the family name is [Hong](https://en.wikipedia.org/wiki/Hong_(Korean_surname)).*
   * GitHub profile metadata does not have my family name as too much *Western* people always assumed the order is FIRSTNAME LASTNAME.
 * Lazy amateur translator, real newbie coder, chief laziness officer.
 * [he/him unless otherwise specified](https://en.pronouns.page/@revi).
 * [Homepage](https://revi.xyz) ([More verbose profile & contact details](https://profile.revi.xyz), [MicroBlog](https://revi.blog/)).
+  * Email address at [email.svg](email.svg). (You will need to correct `§`. Thank spammers who scrap GitHub profile email field for this.)
 * Internal links: [go/todo](http://go/todo), [go/notion](http://go/notion)
 
 ## Latest activity
