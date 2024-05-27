@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="411" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="395" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,40 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">revinet/revi.xyz</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#3230387</div>
+                                        <div class="message">build(deps-dev): bump wrangler from 3.57.0 to 3.57.1
+
+Bumps [wrangler](https://github.com/cloudflare/workers-sdk/tree/HEAD/packages/wrangler) from 3.57.0 to 3.57.1.
+- [Release notes](https://github.com/cloudflare/workers-sdk/releases)
+- [Changelog](https://github.com/cloudflare/workers-sdk/blob/main/packages/wrangler/CHANGELOG.md)
+- [Commits](https://github.com/cloudflare/workers-sdk/commits/wrangler@3.57.1/packages/wrangler)
+
+---
+updated-dependencies:
+- dependency-name: wrangler
+  dependency-type: direct:development
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -179,56 +213,6 @@ Reviewers: O2 Coders, O1 revi &amp; automations, revi
 Reviewed By: O2 Coders, O1 revi &amp; automations, revi
 
 Differential Revision: https://issuetracker.revi.xyz/D152</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">revi/sandbox</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#6090685</div>
-                                        <div class="message">CI(GitHub Actions): run builds on workflow yml file edit
-
-Summary:
-different ci config might render jobs to fail.
-
-Signed-off-by: Yongmin Hong &lt;revi@omglol.email&gt;
-
-Test Plan: Verify test run after `arc land`
-
-Reviewers: O1 revi &amp; automations, revi
-
-Reviewed By: O1 revi &amp; automations, revi
-
-Differential Revision: https://issuetracker.revi.xyz/D139</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#50a7eeb</div>
-                                        <div class="message">CI(GitHub Actions): fix php -l script
-
-Summary:
-Was not calling from the repo rootdir. Fix it.
-
-Signed-off-by: Yongmin Hong &lt;revi@omglol.email&gt;
-
-Test Plan: `arc land`. Wait for GitHub Actions to run.
-
-Reviewers: O1 revi &amp; automations, revi
-
-Reviewed By: O1 revi &amp; automations, revi
-
-Differential Revision: https://issuetracker.revi.xyz/D149</div>
                                     </div>
                                 </div>
                             </section>
