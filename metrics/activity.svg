@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="385" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="302" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,44 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">revinet/revi.xyz</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#48e6e5d</div>
+                                        <div class="message">npm: move packages from `./docusaurus` to `./`
+
+Summary:
+Not really `./docusaurus` specific now. Moving to rootdir.
+
+Also:
+
+ - change some docusaurus config (remove unused vars and readability)
+ - alphabetize some lists.
+
+Signed-off-by: Yongmin Hong &lt;revi@omglol.email&gt;
+
+Test Plan: Not really.
+
+Reviewers: O2 Coders, O1 revi &amp; automations, revi
+
+Reviewed By: O2 Coders, O1 revi &amp; automations, revi
+
+Differential Revision: https://issuetracker.revi.xyz/D177</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -76,140 +114,6 @@
                                         <span class="code">arcpatch-D164</span>
                                         in
                                         <span class="repo">revinet/revi.xyz</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 6 commits in
-                                        <span class="repo">revinet/revi.xyz</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">prod</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#d9d288b</div>
-                                        <div class="message">Cloudflare Pages (headers): add CDN-Cache-Control
-
-Summary:
-Docusaurus generates new URL per deployment, so long cache time is harmless.
-
-Inspired by [this docusaurus PR](https://github.com/facebook/docusaurus/pull/6381).
-
-Signed-off-by: Yongmin Hong &lt;revi@omglol.email&gt;
-
-Test Plan: Do test deploy and verify cache headers
-
-Reviewers: O2 Coders, O1 revi &amp; automations, revi
-
-Reviewed By: O2 Coders, O1 revi &amp; automations, revi
-
-Differential Revision: https://issuetracker.revi.xyz/D173</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#16303ea</div>
-                                        <div class="message">meta: imgbot, prettier, eslint, arclint configs, font changes, redirect rules
-
-Summary:
-Some misc configs.
-
-Also comes with:
-
- - css rules for arclint, slight rule changes for other rules
- - add monospace for Korean
- - redirects
-
-Signed-off-by: Yongmin Hong &lt;revi@omglol.email&gt;
-
-Test Plan:
-- eslint: `npx eslint`
-- prettier: `npx prettier --write .`
-- imgbot: wait for PR.
-- redirects: try visiting the redirects via Cloudflare Pages
-- `.arclint`: `arc lint`
-- CSS: make monospace texts in Korean and verify font
-
-Reviewers: O2 Coders, O1 revi &amp; automations, revi
-
-Reviewed By: O2 Coders, O1 revi &amp; automations, revi
-
-Differential Revision: https://issuetracker.revi.xyz/D174</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ab46122</div>
-                                        <div class="message">.gitattributes: add
-
-Summary:
-- images are binary.
-- built-in diff logics from [git-scm.com](https://git-scm.com/docs/gitattributes).
-- also remove `.gitmodules` which is no longer used (historically used for hugo themes as trial'ed at T89.)
-
-Signed-off-by: Yongmin Hong &lt;revi@omglol.email&gt;
-
-Reviewers: O2 Coders, O1 revi &amp; automations, revi
-
-Reviewed By: O2 Coders, O1 revi &amp; automations, revi
-
-Differential Revision: https://issuetracker.revi.xyz/D175</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ca1b874</div>
-                                        <div class="message">docusaurus(timer.js): documentation
-
-Summary:
-Quick JSDoc.
-
-Signed-off-by: Yongmin Hong &lt;revi@omglol.email&gt;
-
-Test Plan: `$jsdoc --explain .`
-
-Reviewers: O2 Coders, O1 revi &amp; automations, revi
-
-Reviewed By: O2 Coders, O1 revi &amp; automations, revi
-
-Differential Revision: https://issuetracker.revi.xyz/D176</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2c0a292</div>
-                                        <div class="message">CI(GitHub Actions): Fix yaml lint
-
-Summary:
-Fix brackets, ignore truthy/line-length.
-
-Also applied `npx prettier --write .github/`
-
-Signed-off-by: Yongmin Hong &lt;revi@omglol.email&gt;
-
-Test Plan: `yamllint ./github`
-
-Reviewers: O2 Coders, O1 revi &amp; automations, revi
-
-Reviewed By: O2 Coders, O1 revi &amp; automations, revi
-
-Differential Revision: https://issuetracker.revi.xyz/D172</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1a6fc18</div>
-                                        <div class="message">CI(GitHub Actions): CodeQL
-
-Summary:
-Config as Code is better than web-admin flow.
-
-Signed-off-by: Yongmin Hong &lt;revi@omglol.email&gt;
-
-Test Plan: `arc land`, and watch GitHub Actions run CodeQL.
-
-Reviewers: O2 Coders, O1 revi &amp; automations, revi
-
-Reviewed By: O2 Coders, O1 revi &amp; automations, revi
-
-Differential Revision: https://issuetracker.revi.xyz/D170</div>
                                     </div>
                                 </div>
                             </section>
