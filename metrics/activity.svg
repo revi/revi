@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="461" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="931" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.markdown a{color:#58a6ff;text-decoration:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -19,16 +19,52 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
-                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Opened
-                                        <span class="issue">#2614 Claiming namespace revi</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">revinet/revi.xyz</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened  in <span class="repo">EclipseFdn/open-vsx.org</span></div>
+                                    <div>on branch <span class="code">prod</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#79e1a23</div>
+                                        <div class="message">docusaurus(config): markdown config, prefetch
+
+Summary:
+Markdown autodetect, and prefetch favicon and OpenGraph resources.
+
+Signed-off-by: Yongmin Hong &lt;revi@omglol.email&gt;
+
+Test Plan: Deploy and verify prefetch?
+
+Reviewers: O2 Coders, O1 revi &amp; automations, revi
+
+Reviewed By: O2 Coders, O1 revi &amp; automations, revi
+
+Differential Revision: https://issuetracker.revi.xyz/D191</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#731c142</div>
+                                        <div class="message">docusaurus(time): add notes on client side JS, timezone diffs
+
+Summary:
+I'm lazy, let's offload timezone diff calculator to 3rd party.
+
+Signed-off-by: Yongmin Hong &lt;revi@omglol.email&gt;
+
+Test Plan:
+1. `npm run build`.
+2. `npm run serve`.
+3. Browse `/time/`.
+
+Reviewers: O2 Coders, O1 revi &amp; automations, revi
+
+Reviewed By: O2 Coders, O1 revi &amp; automations, revi
+
+Differential Revision: https://issuetracker.revi.xyz/D190</div>
+                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -39,32 +75,359 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
+                                        Pushed 2 commits in
+                                        <span class="repo">revinet/revi.xyz</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#79e1a23</div>
+                                        <div class="message">docusaurus(config): markdown config, prefetch
+
+Summary:
+Markdown autodetect, and prefetch favicon and OpenGraph resources.
+
+Signed-off-by: Yongmin Hong &lt;revi@omglol.email&gt;
+
+Test Plan: Deploy and verify prefetch?
+
+Reviewers: O2 Coders, O1 revi &amp; automations, revi
+
+Reviewed By: O2 Coders, O1 revi &amp; automations, revi
+
+Differential Revision: https://issuetracker.revi.xyz/D191</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#731c142</div>
+                                        <div class="message">docusaurus(time): add notes on client side JS, timezone diffs
+
+Summary:
+I'm lazy, let's offload timezone diff calculator to 3rd party.
+
+Signed-off-by: Yongmin Hong &lt;revi@omglol.email&gt;
+
+Test Plan:
+1. `npm run build`.
+2. `npm run serve`.
+3. Browse `/time/`.
+
+Reviewers: O2 Coders, O1 revi &amp; automations, revi
+
+Reviewed By: O2 Coders, O1 revi &amp; automations, revi
+
+Differential Revision: https://issuetracker.revi.xyz/D190</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1420 commits in
+                                        <span class="repo">reviforks/microsoft-winget-pkgs</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#4413c4d</div>
+                                        <div class="message">New version: Microsoft.EdgeDriver version 125.0.2535.67 (#155180)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#81cc7e4</div>
+                                        <div class="message">New version: Tencent.COSBrowser version 2.11.17 (#155171)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fda0de7</div>
+                                        <div class="message">New package: eat-pray-ai.yutu version v0.8.0 (#155436)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#caefa87</div>
+                                        <div class="message">New version: ImageMagick.Q16-HDRI version 7.1.1.33 (#155169)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0bb4d89</div>
+                                        <div class="message">New version: filips.FirefoxPWA version 2.12.1 (#155173)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#14a367f</div>
+                                        <div class="message">New version: VirusTotal.YARA version 4.5.1 (#155168)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#82d6896</div>
+                                        <div class="message">CodingWondersSoftware.DISMTools.Stable version 0.4.2.2454 (#155165)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#179d9b2</div>
+                                        <div class="message">New version: Mp3tag.Mp3tag version 3.26 (#155164)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#258b82a</div>
+                                        <div class="message">New version: FutureScholars.Paperlib version 3.1.2 (#155162)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0eaadc4</div>
+                                        <div class="message">New version: JLC.LCEDA.Pro version 2.1.63 (#155433)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1a4aeec</div>
+                                        <div class="message">New version: FunRoutine.WorkFlowy version 4.0.2405281315 (#155431)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9fc6d60</div>
+                                        <div class="message">Microsoft.DotNet.SDK.8 version 8.0.106 (#155430)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#44931ab</div>
+                                        <div class="message">Microsoft.DotNet.SDK.8 version 8.0.206 (#155429)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a81963e</div>
+                                        <div class="message">Automatic update of SoftMaker.Office.2024 from 24.0.6054 to 24.0.6074 (#155270)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#412a63a</div>
+                                        <div class="message">Seafile.Seafile version 9.0.6 (#155238)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#172e2f5</div>
+                                        <div class="message">Microsoft.DotNet.SDK.7 version 7.0.120 (#155423)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#91ac4c4</div>
+                                        <div class="message">New version: Gyan.FFmpeg.Shared version 7.0.1 (#155225)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d592fdf</div>
+                                        <div class="message">New version: MystiPanda.ClashVerge version 1.6.4 (#155236)
+
+Signed-off-by: 是蓝兔哟～ &lt;49941141+Dragon1573@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#60ec0c2</div>
+                                        <div class="message">New version: viarotel.Escrcpy version 1.19.1 (#155234)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6c6fc0a</div>
+                                        <div class="message">Add version: RustDesk.RustDesk version 1.2.3-2 (#155235)</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 14 commits in
                                         <span class="repo">revinet/revi.xyz</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">prod</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d870759</div>
-                                        <div class="message">docusaurus: version 3.4.0
+                                        <div class="sha">#ec6c4e0</div>
+                                        <div class="message">prettier: apply fmt
 
 Summary:
-dependabot build tend to end up with even more commits than necessary.
-Since I know these were coming, just do it myself.
+ - `docusaurus/src/pages/index.md` is a false positive. Ignore it.
+ - `docusaurus/docusaurus.config.js` is something I want to leave as is. Also ignore it.
 
 Signed-off-by: Yongmin Hong &lt;revi@omglol.email&gt;
 
-Test Plan:
-1. `npm ci`
-2. `npm run build`
-3. `npm run serve`
+Test Plan: `npx prettier --check .` will yield exit code `0`.
 
 Reviewers: O2 Coders, O1 revi &amp; automations, revi
 
 Reviewed By: O2 Coders, O1 revi &amp; automations, revi
 
-Differential Revision: https://issuetracker.revi.xyz/D182</div>
+Differential Revision: https://issuetracker.revi.xyz/D189</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#05acab8</div>
+                                        <div class="message">Merge remote-tracking branch 'origin/dependabot/npm_and_yarn/master/eslint/compat-1.0.3'</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#65646ee</div>
+                                        <div class="message">Merge remote-tracking branch 'origin/dependabot/npm_and_yarn/docusaurus/master/eslint-plugin-react-7.34.2'</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#44ecd5f</div>
+                                        <div class="message">build(deps-dev): bump eslint-plugin-react in /docusaurus
+
+Bumps [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) from 7.34.1 to 7.34.2.
+- [Release notes](https://github.com/jsx-eslint/eslint-plugin-react/releases)
+- [Changelog](https://github.com/jsx-eslint/eslint-plugin-react/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/jsx-eslint/eslint-plugin-react/compare/v7.34.1...v7.34.2)
+
+---
+updated-dependencies:
+- dependency-name: eslint-plugin-react
+  dependency-type: direct:development
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1a97aac</div>
+                                        <div class="message">build(deps-dev): bump @eslint/compat from 1.0.1 to 1.0.3
+
+Bumps [@eslint/compat](https://github.com/eslint/rewrite) from 1.0.1 to 1.0.3.
+- [Release notes](https://github.com/eslint/rewrite/releases)
+- [Changelog](https://github.com/eslint/rewrite/blob/main/release-please-config.json)
+- [Commits](https://github.com/eslint/rewrite/compare/compat-v1.0.1...compat-v1.0.3)
+
+---
+updated-dependencies:
+- dependency-name: "@eslint/compat"
+  dependency-type: direct:development
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#51319c5</div>
+                                        <div class="message">build(deps-dev): bump eslint-plugin-react from 7.34.1 to 7.34.2
+
+Bumps [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) from 7.34.1 to 7.34.2.
+- [Release notes](https://github.com/jsx-eslint/eslint-plugin-react/releases)
+- [Changelog](https://github.com/jsx-eslint/eslint-plugin-react/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/jsx-eslint/eslint-plugin-react/compare/v7.34.1...v7.34.2)
+
+---
+updated-dependencies:
+- dependency-name: eslint-plugin-react
+  dependency-type: direct:development
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cd3bd32</div>
+                                        <div class="message">Merge remote-tracking branch 'origin/dependabot/npm_and_yarn/docusaurus/master/eslint-9.4.0'</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f3873d5</div>
+                                        <div class="message">Merge remote-tracking branch 'origin/dependabot/npm_and_yarn/master/eslint-9.4.0'</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#db8fd1b</div>
+                                        <div class="message">build(deps-dev): bump eslint from 9.3.0 to 9.4.0 in /docusaurus
+
+Bumps [eslint](https://github.com/eslint/eslint) from 9.3.0 to 9.4.0.
+- [Release notes](https://github.com/eslint/eslint/releases)
+- [Changelog](https://github.com/eslint/eslint/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/eslint/eslint/compare/v9.3.0...v9.4.0)
+
+---
+updated-dependencies:
+- dependency-name: eslint
+  dependency-type: direct:development
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#df224d6</div>
+                                        <div class="message">build(deps-dev): bump eslint from 9.3.0 to 9.4.0
+
+Bumps [eslint](https://github.com/eslint/eslint) from 9.3.0 to 9.4.0.
+- [Release notes](https://github.com/eslint/eslint/releases)
+- [Changelog](https://github.com/eslint/eslint/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/eslint/eslint/compare/v9.3.0...v9.4.0)
+
+---
+updated-dependencies:
+- dependency-name: eslint
+  dependency-type: direct:development
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8fba593</div>
+                                        <div class="message">build(deps-dev): bump prettier from 3.2.5 to 3.3.0
+
+Bumps [prettier](https://github.com/prettier/prettier) from 3.2.5 to 3.3.0.
+- [Release notes](https://github.com/prettier/prettier/releases)
+- [Changelog](https://github.com/prettier/prettier/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/prettier/prettier/compare/3.2.5...3.3.0)
+
+---
+updated-dependencies:
+- dependency-name: prettier
+  dependency-type: direct:development
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#68109d4</div>
+                                        <div class="message">npm: update packages
+
+Summary:
+For GitHub PR, merges #9, merges #13.
+
+Signed-off-by: Yongmin Hong &lt;revi@omglol.email&gt;
+
+Test Plan: Not really?
+
+Reviewers: O2 Coders, O1 revi &amp; automations, revi
+
+Reviewed By: O2 Coders, O1 revi &amp; automations, revi
+
+Differential Revision: https://issuetracker.revi.xyz/D188</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#27575e6</div>
+                                        <div class="message">headers: X-Clacks-Overhead
+
+Summary:
+[docs](https://xclacksoverhead.org/home/about).
+
+GNU [Byun Huisu](https://en.wikipedia.org/wiki/Byun_Hui-su).
+
+Signed-off-by: Yongmin Hong &lt;revi@omglol.email&gt;
+
+Test Plan: Cloudflare Pages test deploy, and verify header.
+
+Reviewers: O2 Coders, O1 revi &amp; automations, revi
+
+Reviewed By: O2 Coders, O1 revi &amp; automations, revi
+
+Differential Revision: https://issuetracker.revi.xyz/D186</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#643c270</div>
+                                        <div class="message">docusaurus(config): locale settings and prefetch
+
+Summary:
+1. Configure some locale-specific rules
+2. Preferch r2.revicdn.net where ogp images sometimes get loaded
+3. Commented-out prefetch main css for testing.
+
+Signed-off-by: Yongmin Hong &lt;revi@omglol.email&gt;
+
+Test Plan: `npm run build`, `npm run serve`
+
+Reviewers: O2 Coders, O1 revi &amp; automations, revi
+
+Reviewed By: O2 Coders, O1 revi &amp; automations, revi
+
+Differential Revision: https://issuetracker.revi.xyz/D187</div>
                                     </div>
                                 </div>
                             </section>
@@ -83,178 +446,23 @@ Differential Revision: https://issuetracker.revi.xyz/D182</div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d870759</div>
-                                        <div class="message">docusaurus: version 3.4.0
+                                        <div class="sha">#ec6c4e0</div>
+                                        <div class="message">prettier: apply fmt
 
 Summary:
-dependabot build tend to end up with even more commits than necessary.
-Since I know these were coming, just do it myself.
+ - `docusaurus/src/pages/index.md` is a false positive. Ignore it.
+ - `docusaurus/docusaurus.config.js` is something I want to leave as is. Also ignore it.
 
 Signed-off-by: Yongmin Hong &lt;revi@omglol.email&gt;
 
-Test Plan:
-1. `npm ci`
-2. `npm run build`
-3. `npm run serve`
+Test Plan: `npx prettier --check .` will yield exit code `0`.
 
 Reviewers: O2 Coders, O1 revi &amp; automations, revi
 
 Reviewed By: O2 Coders, O1 revi &amp; automations, revi
 
-Differential Revision: https://issuetracker.revi.xyz/D182</div>
+Differential Revision: https://issuetracker.revi.xyz/D189</div>
                                     </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 8 commits in
-                                        <span class="repo">revinet/revi.xyz</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">prod</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#11545e4</div>
-                                        <div class="message">CI(GitHub Actions): give names to job runs
-
-Summary:
-Another run of pseudo-'prettier'
-
-Signed-off-by: Yongmin Hong &lt;revi@omglol.email&gt;
-
-Test Plan: Not really.
-
-Reviewers: O2 Coders, O1 revi &amp; automations, revi
-
-Reviewed By: O2 Coders, O1 revi &amp; automations, revi
-
-Differential Revision: https://issuetracker.revi.xyz/D179</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#636c02c</div>
-                                        <div class="message">blog(2022): fix broken image links
-
-Summary:
-Basically that I forgot to migrate files.
-
-Signed-off-by: Yongmin Hong &lt;revi@omglol.email&gt;
-
-Test Plan: `npm build docusaurus`, verify image loads.
-
-Reviewers: O2 Coders, O1 revi &amp; automations, revi
-
-Reviewed By: O2 Coders, O1 revi &amp; automations, revi
-
-Differential Revision: https://issuetracker.revi.xyz/D180</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#216cf16</div>
-                                        <div class="message">.arclint: exclude .md files from text lint
-
-Summary:
-Markdown files are expected to be long without line split.
-
-Signed-off-by: Yongmin Hong &lt;revi@omglol.email&gt;
-
-Test Plan:
-1. Edit a `.md` file with line exceeding 80 chars.
-2. `arc lint`
-
-Reviewers: O2 Coders, O1 revi &amp; automations, revi
-
-Reviewed By: O2 Coders, O1 revi &amp; automations, revi
-
-Differential Revision: https://issuetracker.revi.xyz/D181</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e86bb0b</div>
-                                        <div class="message">Merge pull request #7 from revinet/dependabot/npm_and_yarn/master/eslint-9.3.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#52dcbe6</div>
-                                        <div class="message">build(deps-dev): bump eslint from 8.57.0 to 9.3.0
-
-Bumps [eslint](https://github.com/eslint/eslint) from 8.57.0 to 9.3.0.
-- [Release notes](https://github.com/eslint/eslint/releases)
-- [Changelog](https://github.com/eslint/eslint/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/eslint/eslint/compare/v8.57.0...v9.3.0)
-
----
-updated-dependencies:
-- dependency-name: eslint
-  dependency-type: direct:development
-  update-type: version-update:semver-major
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e5ea2e4</div>
-                                        <div class="message">Merge pull request #6 from revinet/dependabot/npm_and_yarn/docusaurus/master/eslint-9.3.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2fa7faf</div>
-                                        <div class="message">build(deps-dev): bump eslint from 8.57.0 to 9.3.0 in /docusaurus
-
-Bumps [eslint](https://github.com/eslint/eslint) from 8.57.0 to 9.3.0.
-- [Release notes](https://github.com/eslint/eslint/releases)
-- [Changelog](https://github.com/eslint/eslint/blob/main/CHANGELOG.md)
-- [Commits](https://github.com/eslint/eslint/compare/v8.57.0...v9.3.0)
-
----
-updated-dependencies:
-- dependency-name: eslint
-  dependency-type: direct:development
-  update-type: version-update:semver-major
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#48e6e5d</div>
-                                        <div class="message">npm: move packages from `./docusaurus` to `./`
-
-Summary:
-Not really `./docusaurus` specific now. Moving to rootdir.
-
-Also:
-
- - change some docusaurus config (remove unused vars and readability)
- - alphabetize some lists.
-
-Signed-off-by: Yongmin Hong &lt;revi@omglol.email&gt;
-
-Test Plan: Not really.
-
-Reviewers: O2 Coders, O1 revi &amp; automations, revi
-
-Reviewed By: O2 Coders, O1 revi &amp; automations, revi
-
-Differential Revision: https://issuetracker.revi.xyz/D177</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Opened
-                                        <span class="issue">#156083 New version: Fly-io.flyctl v0.2.62</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div> in <span class="repo">microsoft/winget-pkgs</span></div>
-                                    <div>3 files changed <span class="code">++54 --0</span></div>
                                 </div>
                             </section>
                         </div>
