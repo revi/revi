@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="328" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="428" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}#metrics-end,.fill-width{width:100%}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details&gt;*,.row section{flex:1 1 0}.category,.track{display:flex;align-items:center}.category{flex-direction:column;flex:1 1 0}.track{justify-content:center;margin-bottom:4px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.space{margin-left:7px}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -22,80 +22,57 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">revi/dots</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">revinet/revi.xyz</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c98952d</div>
-                                        <div class="message">CI(arclint): fix jshint/json
+                                        <div class="sha">#e5f27ae</div>
+                                        <div class="message">docusaurus: try to fix react error
 
 Summary:
- - jshint: config @ `.jshint.json`
- - json: track sublime-settings
- - remove jsonlint (see {D214})
- - `npm install --save-dev jshint`
+Following errors appear in prod:
+
+ - https://react.dev/errors/418?invariant=418
+ - https://react.dev/errors/423?invariant=423
+ - https://react.dev/errors/425?invariant=425
+
+Turns out `schema.json` issue - removing those fixed the problem.
+
+Revert D143 for now, to be re-implemented via importing `profileschema`.
+
+Also add `suppressHydrationWarning={true}` on `time.js`
+per [react.dev](https://react.dev/reference/react-dom/client/hydrateRoot#suppressing-unavoidable-hydration-mismatch-errors)
 
 Signed-off-by: Yongmin Hong &lt;revi@omglol.email&gt;
 
-Test Plan: `npm run p:c .`, 'arc lint`.
-
-Reviewers: O1 revi &amp; automations, revi
-
-Reviewed By: O1 revi &amp; automations, revi
-
-Differential Revision: https://issuetracker.revi.xyz/D231</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">toss/es-hangul</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">revinet/revi.xyz</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">prod</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#212777e</div>
-                                        <div class="message">docusaurus(blog): categorize / remove one entry
-
-Summary:
- - category `tech`
- - some extra tags
- - internal MOS: language category always frontside
- - remove one entry I just find it to be too much rant
-
-Signed-off-by: Yongmin Hong &lt;revi@omglol.email&gt;
-
-Test Plan: `npm run dbuild`, `npm run dserve`
+Test Plan: `npm run dbuild`, `npm run dserve`, see browser console.
 
 Reviewers: O2 Coders, O1 revi &amp; automations, revi
 
 Reviewed By: O2 Coders, O1 revi &amp; automations, revi
 
-Differential Revision: https://issuetracker.revi.xyz/D234</div>
+Differential Revision: https://issuetracker.revi.xyz/D241</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#68e56c7</div>
+                                        <div class="message">docusaurus(config): internalize external image
+
+Summary:
+While `r2.revicdn.net` is also controlled by me, it adds extra network connection
+Loading from `/img/` dir would reduce some prefetch.
+
+Signed-off-by: Yongmin Hong &lt;revi@omglol.email&gt;
+
+Test Plan: Load the page.
+
+Reviewers: O2 Coders, O1 revi &amp; automations, revi
+
+Reviewed By: O2 Coders, O1 revi &amp; automations, revi
+
+Differential Revision: https://issuetracker.revi.xyz/D240</div>
                                     </div>
                                 </div>
                             </section>
@@ -114,24 +91,21 @@ Differential Revision: https://issuetracker.revi.xyz/D234</div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#212777e</div>
-                                        <div class="message">docusaurus(blog): categorize / remove one entry
+                                        <div class="sha">#d8f49e8</div>
+                                        <div class="message">build(deps-dev): bump globals from 15.3.0 to 15.4.0
 
-Summary:
- - category `tech`
- - some extra tags
- - internal MOS: language category always frontside
- - remove one entry I just find it to be too much rant
+Bumps [globals](https://github.com/sindresorhus/globals) from 15.3.0 to 15.4.0.
+- [Release notes](https://github.com/sindresorhus/globals/releases)
+- [Commits](https://github.com/sindresorhus/globals/compare/v15.3.0...v15.4.0)
 
-Signed-off-by: Yongmin Hong &lt;revi@omglol.email&gt;
+---
+updated-dependencies:
+- dependency-name: globals
+  dependency-type: direct:development
+  update-type: version-update:semver-minor
+...
 
-Test Plan: `npm run dbuild`, `npm run dserve`
-
-Reviewers: O2 Coders, O1 revi &amp; automations, revi
-
-Reviewed By: O2 Coders, O1 revi &amp; automations, revi
-
-Differential Revision: https://issuetracker.revi.xyz/D234</div>
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -148,23 +122,154 @@ Differential Revision: https://issuetracker.revi.xyz/D234</div>
                                     </div>
                                 </div>
                                 <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c8ecb24</div>
+                                        <div class="message">build(deps-dev): bump wrangler from 3.58.0 to 3.60.0
+
+Bumps [wrangler](https://github.com/cloudflare/workers-sdk/tree/HEAD/packages/wrangler) from 3.58.0 to 3.60.0.
+- [Release notes](https://github.com/cloudflare/workers-sdk/releases)
+- [Changelog](https://github.com/cloudflare/workers-sdk/blob/main/packages/wrangler/CHANGELOG.md)
+- [Commits](https://github.com/cloudflare/workers-sdk/commits/wrangler@3.60.0/packages/wrangler)
+
+---
+updated-dependencies:
+- dependency-name: wrangler
+  dependency-type: direct:development
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">revinet/revi.xyz</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#000f1a6</div>
+                                        <div class="message">build(deps-dev): bump prettier from 3.3.0 to 3.3.1
+
+Bumps [prettier](https://github.com/prettier/prettier) from 3.3.0 to 3.3.1.
+- [Release notes](https://github.com/prettier/prettier/releases)
+- [Changelog](https://github.com/prettier/prettier/blob/main/CHANGELOG.md)
+- [Commits](https://github.com/prettier/prettier/compare/3.3.0...3.3.1)
+
+---
+updated-dependencies:
+- dependency-name: prettier
+  dependency-type: direct:development
+  update-type: version-update:semver-patch
+...
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 4 commits in
+                                        <span class="repo">revinet/revi.xyz</span>
+                                    </div>
+                                </div>
+                                <div class="details">
                                     <div>on branch <span class="code">prod</span></div>
                                     <div class="commit">
-                                        <div class="sha">#201ac1e</div>
-                                        <div class="message">docusaurus: update pgp key
+                                        <div class="sha">#2d1dafd</div>
+                                        <div class="message">docusaurus(headers): add more headers
 
 Summary:
-New identity. Also export wkd bits.
+Depends on D235. Set following headers:
+
+ - Access-Control-Allow-Origin
+ - CSP
+ - detach CSP from certain urls
+ - Some `x-robots-tag`
+
+CSP generated with [validbot.com](https://www.validbot.com/tools/csp-wizard.php)
 
 Signed-off-by: Yongmin Hong &lt;revi@omglol.email&gt;
 
-Test Plan: `gpg --import` it.
+Test Plan: deploy and test? (I think wranger has local-test mode which I should implement for this kind of things)
 
 Reviewers: O2 Coders, O1 revi &amp; automations, revi
 
 Reviewed By: O2 Coders, O1 revi &amp; automations, revi
 
-Differential Revision: https://issuetracker.revi.xyz/D233</div>
+Differential Revision: https://issuetracker.revi.xyz/D237</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ff8c295</div>
+                                        <div class="message">CI(Dependabot): add npm grouping / add commit header
+
+Summary:
+ - group related packages in one PR
+ - set commit prefix
+
+Signed-off-by: Yongmin Hong &lt;revi@omglol.email&gt;
+
+Test Plan: Wait for next Dependabot update
+
+Reviewers: O2 Coders, O1 revi &amp; automations, revi
+
+Reviewed By: O2 Coders, O1 revi &amp; automations, revi
+
+Differential Revision: https://issuetracker.revi.xyz/D236</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#701f76f</div>
+                                        <div class="message">headers: set Referrer-policy
+
+Summary:
+`same-origin` for sanity.
+
++ `npm run dstart` for local testing.
+
+Signed-off-by: Yongmin Hong &lt;revi@omglol.email&gt;
+
+Test Plan:
+1. `arc land` and verify Referrer-policy.
+2. `npm run dstart`.
+
+Reviewers: O2 Coders, O1 revi &amp; automations, revi
+
+Reviewed By: O2 Coders, O1 revi &amp; automations, revi
+
+Differential Revision: https://issuetracker.revi.xyz/D235</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#99aa251</div>
+                                        <div class="message">docusaurus(robots.txt): remove extra space
+
+Summary:
+less size, always better.
+
+Signed-off-by: Yongmin Hong &lt;revi@omglol.email&gt;
+
+Test Plan: N/A
+
+Reviewers: O2 Coders, O1 revi &amp; automations, revi
+
+Reviewed By: O2 Coders, O1 revi &amp; automations, revi
+
+Differential Revision: https://issuetracker.revi.xyz/D239</div>
                                     </div>
                                 </div>
                             </section>
