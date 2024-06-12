@@ -27,6 +27,10 @@
 
 ![GitHub Lastfm](lastfm.svg)
 
+## Notable contributions
+
+![Notable contributions](notablecontrib.svg)
+
 ## Sponsors
 
 ![GitHub Sponsors](sponsors.svg)

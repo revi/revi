@@ -42,6 +42,17 @@ jobs:
           base: header, repositories
           plugin_introduction: yes
           user: revi
+      - name: "Notable Contributions"
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics/notablecontrib.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_notable: yes
+          plguin_notable_from: all
+          plugin_notable_indepth: yes
+          plugin_notable_types: commit, pull_request, issue
+          plugin_notable_self: no
       - name: "Steam"
         uses: lowlighter/metrics@latest
         with:
