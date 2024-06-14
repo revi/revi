@@ -3,7 +3,7 @@ name: Todoist Readme Update
 on:
   workflow_dispatch:
 #  schedule:
-    # Runs at 14:45 UTC (23:45 KST) every day
+# Runs at 14:45 UTC (23:45 KST) every day
 #    - cron: '45 14 * * *'
 
 concurrency:

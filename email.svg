@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="300" height="50">
-  <style>
-    svg{
-      font-family: '0xProto';
-      src: url('https://github.com/0xType/0xProto/raw/1.603/fonts/0xProto-Regular.otf');
-    }
-  </style>
-  <text x="10" y="25" font-family="0xProto" font-size="20" fill="black">pancake § revi.dev</text>
-</svg>

@@ -5,10 +5,12 @@
 ![GitHub Activities](activity.svg)
 
 ## Calendar
+
 <details>
 <summary>Collapsed due to image size</summary>
 
 ![GitHub Calendar](calendar.svg)
+
 </details>
 
 ## Follow Up

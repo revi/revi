@@ -1,8 +1,5 @@
 {
-  "exclude": [
-    "(^node_modules/)",
-    "(^package-lock.json$)"
-  ],
+  "exclude": ["(^node_modules/)", "(^package-lock.json$)"],
   "linters": {
     "chmod": {
       "type": "chmod"
@@ -12,11 +9,7 @@
     },
     "jshint": {
       "type": "jshint",
-      "include": [
-        "(\\.cjs$)",
-        "(\\.js$)",
-        "(\\.mjs$)"
-      ],
+      "include": ["(\\.cjs$)", "(\\.js$)", "(\\.mjs$)"],
       "jshint.jshintrc": ".jshintrc.json"
     },
     "json": {
@@ -40,11 +33,7 @@
     },
     "text": {
       "type": "text",
-      "exclude": [
-        "(^.gitignore$)",
-        "(\\.md$)",
-        "(\\.svg$)"
-      ],
+      "exclude": ["(^.gitignore$)", "(\\.md$)", "(\\.svg$)"],
       "text.max-line-length": 80,
       "severity": {
         "1": "autofix",
@@ -55,10 +44,7 @@
     },
     "text-markdown": {
       "type": "text",
-      "include": [
-        "(^.gitignore$)",
-        "(\\.md$)"
-      ],
+      "include": ["(^.gitignore$)", "(\\.md$)"],
       "severity": {
         "1": "autofix",
         "2": "advice",
@@ -68,9 +54,7 @@
     },
     "text-svg": {
       "type": "text",
-      "include": [
-        "(\\.svg$)"
-      ],
+      "include": ["(\\.svg$)"],
       "severity": {
         "1": "autofix",
         "2": "advice",
@@ -81,10 +65,7 @@
     },
     "xml": {
       "type": "xml",
-      "include": [
-        "(\\.svg$)",
-        "(\\.xml$)"
-      ]
+      "include": ["(\\.svg$)", "(\\.xml$)"]
     }
   }
 }

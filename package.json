@@ -1,0 +1,15 @@
+{
+  "name": "@revi/revi",
+  "version": "0.0.0",
+  "devDependencies": {
+    "@revi/prettier-config": "^0.0.1",
+    "prettier": "^3.3.2"
+  },
+  "prettier": "@revi/prettier-config",
+  "scripts": {
+    "p:c": "prettier --check",
+    "p:w": "prettier --write"
+  },
+  "author": "Yongmin Hong (https://revi.xyz/)",
+  "license": "Apache-2.0"
+}
