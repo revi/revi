@@ -1,0 +1,5 @@
+# CodeOwners
+# https://issuetracker.revi.xyz/u/GHCODEOWNERS
+*                @revi
+README.md        @revi @github-actions[bot]
+metrics/**.svg   @revi @github-actions[bot]
