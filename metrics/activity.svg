@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="295" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="395" class="">
     <defs>
         <style/>
     </defs>
@@ -19,122 +19,217 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">revi/sandbox</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#be3db3c</div>
+                                        <div class="message">npm(eslint-config): eslint shard config
+
+Summary:
+Yet another shared config for consolidation.
+
+Signed-off-by: Yongmin Hong &lt;revi@omglol.email&gt;
+
+Test Plan: `arc land`, `npm publish`, and install it.
+
+Reviewers: O1 revi &amp; automations, revi
+
+Reviewed By: O1 revi &amp; automations, revi
+
+Differential Revision: https://issuetracker.revi.xyz/D331</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">revi/sandbox</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#b1740bd</div>
+                                        <div class="message">CI(.arclint): use Pinterest Arcanist Linter
+
+Summary:
+Thanks pinterest!
+
+Also fix some GitHub Actions error.
+
+Signed-off-by: Yongmin Hong &lt;revi@omglol.email&gt;
+
+Test Plan: run `arc lint`?
+
+Reviewers: O1 revi &amp; automations, revi
+
+Reviewed By: O1 revi &amp; automations, revi
+
+Differential Revision: https://issuetracker.revi.xyz/D325</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 3 commits in
+                                        <span class="repo">revinet/revi.xyz</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#11db064</div>
+                                        <div class="message">docusaurus(/meta/): add badges info
+
+Summary:
+More build metadata is still in the todo, though...
+
+Signed-off-by: Yongmin Hong &lt;revi@omglol.email&gt;
+
+Test Plan: `npm run test` and verify badges
+
+Reviewers: O2 Coders, O1 revi &amp; automations, revi
+
+Reviewed By: O2 Coders, O1 revi &amp; automations, revi
+
+Differential Revision: https://issuetracker.revi.xyz/D327</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#14f13e9</div>
+                                        <div class="message">docusaurus: add docusaurus-post-generator
+
+Summary:
+Automate creating the docusaurus blog file.
+
+Signed-off-by: Yongmin Hong &lt;revi@omglol.email&gt;
+
+Test Plan: `npm ci`, then `npm run new (page title)`.
+
+Reviewers: O2 Coders, O1 revi &amp; automations, revi
+
+Reviewed By: O2 Coders, O1 revi &amp; automations, revi
+
+Differential Revision: https://issuetracker.revi.xyz/D328</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f2c8c9c</div>
+                                        <div class="message">CI(npm): bump renovate from 37.408.0 to 37.408.1
+
+Summary:
+37.408.2 waiting for 24 hours
+
+Signed-off-by: Yongmin Hong &lt;revi@omglol.email&gt;
+
+Test Plan: `npm ci`.
+
+Reviewers: O2 Coders, O1 revi &amp; automations, revi
+
+Reviewed By: O2 Coders, O1 revi &amp; automations, revi
+
+Differential Revision: https://issuetracker.revi.xyz/D329</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 3 commits in
+                                        <span class="repo">revinet/revi.xyz</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c502194</div>
+                                        <div class="message">CI(.arclint): add pinterest linters
+
+Summary:
+Thanks Pinterest!
+
+Signed-off-by: Yongmin Hong &lt;revi@omglol.email&gt;
+
+Test Plan: `git submodule init`, `git submodule update`
+
+Reviewers: O2 Coders, O1 revi &amp; automations, revi
+
+Reviewed By: O2 Coders, O1 revi &amp; automations, revi
+
+Differential Revision: https://issuetracker.revi.xyz/D322</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cd21db4</div>
+                                        <div class="message">CI(.arclint): exclude vscode jsonc files entirely
+
+Summary:
+Instead of `@nolint`ing, just disable json linting from that directory.
+
+Signed-off-by: Yongmin Hong &lt;revi@omglol.email&gt;
+
+Test Plan: `arc lint`
+
+Reviewers: O2 Coders, O1 revi &amp; automations, revi
+
+Reviewed By: O2 Coders, O1 revi &amp; automations, revi
+
+Differential Revision: https://issuetracker.revi.xyz/D321</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4a7edd6</div>
+                                        <div class="message">CI: move scripts to scripts directory
+
+Summary:
+More streamlined directory view.
+
+Signed-off-by: Yongmin Hong &lt;revi@omglol.email&gt;
+
+Test Plan:
+- `npm run lint`
+- `npm run test`
+
+Verify the scripts run fine.
+
+Reviewers: O2 Coders, O1 revi &amp; automations, revi
+
+Reviewed By: O2 Coders, O1 revi &amp; automations, revi
+
+Differential Revision: https://issuetracker.revi.xyz/D319</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
                                     <div class="content">
                                         Starred
                                         <span class="repo">uber/arcanist</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">typicode/husky</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">revinet/revi.xyz</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#acffe83</div>
-                                        <div class="message">meta: `.vscode/**.json` is jsonc
-
-Summary:
-Prevents false GitHub json syntax error docs.
-
-Signed-off-by: Yongmin Hong &lt;revi@omglol.email&gt;
-
-Test Plan: `arc land` and see the `.vscode/launch.json` again
-
-Reviewers: O2 Coders, O1 revi &amp; automations, revi
-
-Reviewed By: O2 Coders, O1 revi &amp; automations, revi
-
-Differential Revision: https://issuetracker.revi.xyz/D318</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">revinet/revi.xyz</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#08ad1dd</div>
-                                        <div class="message">npm: bump renovate from 37.407.1 to 37.408.0
-
-Summary:
-They release quite often though.
-
-Signed-off-by: Yongmin Hong &lt;revi@omglol.email&gt;
-
-Test Plan: `npm run lint:renovate`.
-
-Reviewers: O2 Coders, O1 revi &amp; automations, revi
-
-Reviewed By: O2 Coders, O1 revi &amp; automations, revi
-
-Differential Revision: https://issuetracker.revi.xyz/D317</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">revi/revi</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#19069ab</div>
-                                        <div class="message">build(deps-dev): bump @revi/prettier-config from 0.0.1 to 0.0.2
-
-Bumps [@revi/prettier-config](https://github.com/revi/sandbox/tree/HEAD/npm/prettier-config) from 0.0.1 to 0.0.2.
-- [Commits](https://github.com/revi/sandbox/commits/HEAD/npm/prettier-config)
-
----
-updated-dependencies:
-- dependency-name: "@revi/prettier-config"
-  dependency-type: direct:development
-  update-type: version-update:semver-patch
-...
-
-Signed-off-by: dependabot[bot] &lt;support@github.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
