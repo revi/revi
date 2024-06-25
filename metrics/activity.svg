@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="262" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="994" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.audit svg{margin:0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -22,29 +22,95 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">revi/sandbox</span>
+                                        Pushed 902 commits in
+                                        <span class="repo">reviforks/microsoft-winget-pkgs</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#4e98e27</div>
-                                        <div class="message">CI(typescript): add typescript stuff
+                                        <div class="sha">#eef333c</div>
+                                        <div class="message">New version: Memurai.MemuraiDeveloper version 4.1.2 (#158728)
 
-Summary:
-Add them as `package.json` deps. Also remove `--fund=false` in
-GitHub Actions workflows where it's obsoleted by `.npmrc` file.
+Co-authored-by: Adam Kaczmarek &lt;adam@kaczmarek.dev&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#68543d0</div>
+                                        <div class="message">Remove Version: OO-Software.AutoBackup.Professional version 2.5.27 (#158727)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#faa483f</div>
+                                        <div class="message">New version: Oven-sh.Bun.BaselineProfile version 1.1.14 (#158717)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f027d0e</div>
+                                        <div class="message">New version: Oven-sh.Bun.Profile version 1.1.14 (#158716)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ae7a50e</div>
+                                        <div class="message">New version: Streamlink.Streamlink version 6.8.1-1 (#158712)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#977526e</div>
+                                        <div class="message">New version: Neemb.Distill version 3.10.8-beta (#158713)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0e977cd</div>
+                                        <div class="message">New version: Tencent.WeixinDevTools version 1.06.2405020 (#158711)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5d12cad</div>
+                                        <div class="message">New version: rwv.OnlineDOSGames version 8.1.0 (#158710)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#82c893e</div>
+                                        <div class="message">New version: GLab.GLab version 1.42.0 (#158706)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0b1e189</div>
+                                        <div class="message">New version: converse.converse version 10.1.5 (#158761)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#47258fb</div>
+                                        <div class="message">eloston.ungoogled-chromium version 126.0.6478.61 (#158705)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#12b9c8a</div>
+                                        <div class="message">Fly-io.flyctl: new version 0.2.72 (#158704)
 
-Signed-off-by: Yongmin Hong &lt;revi@omglol.email&gt;
-
-Test Plan: `npm ci`.
-
-Reviewers: O1 revi &amp; automations, revi
-
-Reviewed By: O1 revi &amp; automations, revi
-
-Differential Revision: https://issuetracker.revi.xyz/D429</div>
+Signed-off-by: Yongmin Hong &lt;revi@omglol.email&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2ee5cb1</div>
+                                        <div class="message">New version: craftablescience.VPKEdit version 4.2.2 (#158762)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6f2400b</div>
+                                        <div class="message">New version: Kubernetes.kubectl version 1.30.2 (#158760)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a1e6263</div>
+                                        <div class="message">New version: cthoeing.PasswordTech version 3.5.4 (#158763)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8a45174</div>
+                                        <div class="message">New version: cyanreg.cyanrip version 0.9.3.1 (#158764)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#51297a8</div>
+                                        <div class="message">New version: Alibaba.QuarkCloudDrive version 3.3.0 (#158703)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7999b31</div>
+                                        <div class="message">Remove version: beekeeper-studio.beekeeper-studio version 4.4.0 (#158700)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a13a771</div>
+                                        <div class="message">New version: JetBrains.CLion.EAP version 242.16677.29 (#158115)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#be374db</div>
+                                        <div class="message">New version: Jackett.Jackett version 0.22.175 (#158701)</div>
                                     </div>
                                 </div>
                             </section>
@@ -53,14 +119,131 @@ Differential Revision: https://issuetracker.revi.xyz/D429</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Created new
-                      tag
-                                        <span class="code">prettier-config@v0.0.7</span>
-                                        in
-                                        <span class="repo">revi/sandbox</span>
+                                        Pushed 139 commits in
+                                        <span class="repo">reviforks/github-docs</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">npm-provenance</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#2fbcc22</div>
+                                        <div class="message">Merge pull request #33578 from github/repo-sync
+
+Repo sync</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4189d1f</div>
+                                        <div class="message">[Early access companion] PR #324 (#51282)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#931b182</div>
+                                        <div class="message">Add secret scanning pipeline (#51188)
+
+Co-authored-by: mc &lt;42146119+mchammer01@users.noreply.github.com&gt;
+Co-authored-by: Peter Bengtsson &lt;peterbe@github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#694445c</div>
+                                        <div class="message">Merge pull request #33577 from github/repo-sync
+
+Repo sync</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#99d9b6a</div>
+                                        <div class="message">[Early access companion] PR #323 (#51197)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#247e74e</div>
+                                        <div class="message">Update audit log event data (#51284)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a6ba70c</div>
+                                        <div class="message">Merge pull request #33575 from github/repo-sync
+
+Repo sync</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#afd749d</div>
+                                        <div class="message">Bump @primer/behaviors from 1.5.1 to 1.6.0 (#51257)
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b667621</div>
+                                        <div class="message">Merge pull request #33574 from github/repo-sync
+
+Repo sync</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#92a6138</div>
+                                        <div class="message">Bump @primer/octicons-react from 19.9.0 to 19.10.0 (#51278)
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8dd72c6</div>
+                                        <div class="message">Bump @primer/octicons from 19.9.0 to 19.10.0 (#51277)
+
+Signed-off-by: dependabot[bot] &lt;support@github.com&gt;
+Co-authored-by: dependabot[bot] &lt;49699333+dependabot[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f2b10d6</div>
+                                        <div class="message">Merge pull request #33573 from github/repo-sync
+
+Repo sync</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#75f32de</div>
+                                        <div class="message">Patch release notes for GitHub Enterprise Server (#51227)
+
+Co-authored-by: Release-Controller &lt;releasecontroller@github.com&gt;
+Co-authored-by: Sophie &lt;29382425+sophietheking@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d443a37</div>
+                                        <div class="message">Merge pull request #33572 from github/repo-sync
+
+Repo sync</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#38fec47</div>
+                                        <div class="message">Add note about inviting OCs requiring a seat even if they already are using one (#51223)
+
+Co-authored-by: Sophie &lt;29382425+sophietheking@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3cb1271</div>
+                                        <div class="message">🤖 src/ghes-releases/lib/enterprise-dates.json update (#51261)
+
+Co-authored-by: heiskr &lt;1221423+heiskr@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c8d78d2</div>
+                                        <div class="message">Merge pull request #33570 from github/repo-sync
+
+Repo sync</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a56bce8</div>
+                                        <div class="message">Fix some quotes (#51259)
+
+Co-authored-by: Jenni Christensen &lt;97056108+dihydroJenoxide@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4cc6de7</div>
+                                        <div class="message">Make small tweaks to the "About Copilot Chat in your IDE" transparency note (#51203)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1d1867f</div>
+                                        <div class="message">Merge pull request #51273 from github/repo-sync
+
+Repo sync</div>
                                     </div>
                                 </div>
                             </section>
@@ -73,29 +256,29 @@ Differential Revision: https://issuetracker.revi.xyz/D429</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">revi/sandbox</span>
+                                        <span class="repo">revi/listdomains</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ab28384</div>
-                                        <div class="message">CI(npm): Refer local directory as file path
+                                        <div class="sha">#17ae4cc</div>
+                                        <div class="message">microsoft: add npm.community and vscode-cdn.net
 
 Summary:
-Avoid updating local pkgs.
-
-Also add `prefer-dedupe=true` on `.npmrc`.
+Per:
+- [GitHub Docs on Codespaces](https://docs.github.com/en/codespaces/the-githubdev-web-based-editor)
+- [npm/npm](https://github.com/npm/npm)
 
 Signed-off-by: Yongmin Hong &lt;revi@omglol.email&gt;
 
-Test Plan: `npm ci`.
+Test Plan: N/A
 
 Reviewers: O1 revi &amp; automations, revi
 
 Reviewed By: O1 revi &amp; automations, revi
 
-Differential Revision: https://issuetracker.revi.xyz/D428</div>
+Differential Revision: https://issuetracker.revi.xyz/D432</div>
                                     </div>
                                 </div>
                             </section>
@@ -104,11 +287,35 @@ Differential Revision: https://issuetracker.revi.xyz/D428</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 5a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm.061 3.073a4 4 0 10-5.123 0 6.004 6.004 0 00-3.431 5.142.75.75 0 001.498.07 4.5 4.5 0 018.99 0 .75.75 0 101.498-.07 6.005 6.005 0 00-3.432-5.142z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Added revibot as collaborator in
-                                        <span class="repo">revi/listdomains</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">revinet/revi.xyz</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#9b20adf</div>
+                                        <div class="message">CI(Azure Pipelines): Migrate low-risk jobs
+
+Summary:
+Future plan is to migrate long-running jobs like Lighthouse and
+playwright tests (thereby fully migrating `.github/workflows/ci.yml`)
+but for now this should suffice to reduce some GitHub Actions usage.
+
+Signed-off-by: Yongmin Hong &lt;revi@omglol.email&gt;
+
+Test Plan: `arc land` and watch it run. It passed Azure Pipeline web UI's validation.
+
+Reviewers: O2 Coders, O1 revi &amp; automations, revi
+
+Reviewed By: O2 Coders, O1 revi &amp; automations, revi
+
+Tags: #azure_pipelines
+
+Differential Revision: https://issuetracker.revi.xyz/D431</div>
                                     </div>
                                 </div>
                             </section>
@@ -117,11 +324,33 @@ Differential Revision: https://issuetracker.revi.xyz/D428</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 5a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm.061 3.073a4 4 0 10-5.123 0 6.004 6.004 0 00-3.431 5.142.75.75 0 001.498.07 4.5 4.5 0 018.99 0 .75.75 0 101.498-.07 6.005 6.005 0 00-3.432-5.142z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Added revibot as collaborator in
-                                        <span class="repo">revi/sandbox</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">revinet/revi.xyz</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#b4ad896</div>
+                                        <div class="message">CI(Azure Pipelines): add test
+
+Summary:
+Proof of Concept though.
+
+Signed-off-by: Yongmin Hong &lt;revi@omglol.email&gt;
+
+Test Plan: `arc land` and try running it.
+
+Reviewers: O2 Coders, O1 revi &amp; automations, revi
+
+Reviewed By: O2 Coders, O1 revi &amp; automations, revi
+
+Tags: #azure_pipelines
+
+Differential Revision: https://issuetracker.revi.xyz/D430</div>
                                     </div>
                                 </div>
                             </section>
