@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "private": true,
   "devDependencies": {
-    "@revi/prettier-config": "0.0.6",
+    "@revi/prettier-config": "0.0.7",
     "prettier": "3.3.2"
   },
   "prettier": "@revi/prettier-config",
