@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="578" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="561" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.stackoverflow{margin-left:38px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,190 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 19 commits in
+                                        <span class="repo">revinet/revi.xyz</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">prod</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c0ff306</div>
+                                        <div class="message">docusaurus(static): add `.well-known/assetlinks.json`
+
+Summary:
+Mostly to document a subset of `revi`.tld domain I control. [Stackoverflow link](https://stackoverflow.com/a/78340994/).
+
+More to add but these are pretty much everything in prod right now, anyway.
+
+Signed-off-by: Yongmin Hong &lt;revi@omglol.email&gt;
+
+Test Plan:
+1. `npm run dbuild`
+2. `npm run dserve`
+3. browse `/.well-known/assetlinks.json`.
+
+Reviewers: O2 Coders, O1 revi &amp; automations, revi
+
+Reviewed By: O2 Coders, O1 revi &amp; automations, revi
+
+Differential Revision: https://issuetracker.revi.xyz/D490</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c909851</div>
+                                        <div class="message">CI(deps): Update actions/setup-node digest to 1e60f62
+
+Signed-off-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d827304</div>
+                                        <div class="message">CI(deps): Update dependency renovate to v37.424.4
+
+Signed-off-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c78db05</div>
+                                        <div class="message">CI(deps): Update dependency renovate to v37.424.3
+
+Signed-off-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c284052</div>
+                                        <div class="message">CI(deps): Update dependency @eslint-react/eslint-plugin to v1.5.23
+
+Signed-off-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fbd9e14</div>
+                                        <div class="message">CI(deps): Update dependency node to v20.15.1
+
+Signed-off-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a7bd8d7</div>
+                                        <div class="message">CI(deps): Update npm patch upgrades
+
+Signed-off-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d05741f</div>
+                                        <div class="message">CI(deps): Update dependency renovate to v37.423.1
+
+Signed-off-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bc70cbf</div>
+                                        <div class="message">CI(deps): Update dependency wrangler to v3.63.1
+
+Signed-off-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e21e8c3</div>
+                                        <div class="message">CI(deps): Update dependency @eslint-react/eslint-plugin to v1.5.21
+
+Signed-off-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#575e210</div>
+                                        <div class="message">CI(deps): Update dependency @revi/eslint-config to v0.0.7
+
+Signed-off-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b411eac</div>
+                                        <div class="message">CI(deps): Update dependency wrangler to v3.63.0
+
+Signed-off-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cb92928</div>
+                                        <div class="message">CI(deps): Update dependency @playwright/test to v1.45.1
+
+Signed-off-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3d2a339</div>
+                                        <div class="message">CI(deps): Update dependency globals to v15.8.0
+
+Signed-off-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f9ddeed</div>
+                                        <div class="message">CI(deps): Update actions/upload-artifact digest to 0b2256b
+
+Signed-off-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e1b743b</div>
+                                        <div class="message">CI(deps): Update npm patch upgrades
+
+Signed-off-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a1ebee7</div>
+                                        <div class="message">CI(deps): Update npm patch upgrades
+
+Signed-off-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8bd5dda</div>
+                                        <div class="message">CI(deps): Update dependency renovate to v37.421.5
+
+Signed-off-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2b6c063</div>
+                                        <div class="message">CI(deps): Update dependency @revi/prettier-config to v0.1.2
+
+Signed-off-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">revinet/revi.xyz</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c0ff306</div>
+                                        <div class="message">docusaurus(static): add `.well-known/assetlinks.json`
+
+Summary:
+Mostly to document a subset of `revi`.tld domain I control. [Stackoverflow link](https://stackoverflow.com/a/78340994/).
+
+More to add but these are pretty much everything in prod right now, anyway.
+
+Signed-off-by: Yongmin Hong &lt;revi@omglol.email&gt;
+
+Test Plan:
+1. `npm run dbuild`
+2. `npm run dserve`
+3. browse `/.well-known/assetlinks.json`.
+
+Reviewers: O2 Coders, O1 revi &amp; automations, revi
+
+Reviewed By: O2 Coders, O1 revi &amp; automations, revi
+
+Differential Revision: https://issuetracker.revi.xyz/D490</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -50,121 +234,6 @@
                                     <div class="content">
                                         Starred
                                         <span class="repo">dependabot/dependabot-core</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Opened
-                                        <span class="issue">#162530 Fly-io.flyctl: New version 0.2.87</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div> in <span class="repo">microsoft/winget-pkgs</span></div>
-                                    <div>4 files changed <span class="code">++80 --0</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 320 commits in
-                                        <span class="repo">reviforks/winget-pkgs</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#e54d9bc</div>
-                                        <div class="message">Remove version: TheDocumentFoundation.LibreOffice.LTS version 7.6.6.3 (#162301)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0857cb3</div>
-                                        <div class="message">Remove version: TheDocumentFoundation.LibreOffice.LTS version 7.6.5.2 (#162300)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#27405ed</div>
-                                        <div class="message">Remove version: TheDocumentFoundation.LibreOffice.LTS version 7.5.0.3 (#162297)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cdd9f68</div>
-                                        <div class="message">Remove version: TheDocumentFoundation.LibreOffice.LTS version 7.5.9.2 (#162299)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#eade266</div>
-                                        <div class="message">Remove version: TheDocumentFoundation.LibreOffice.LTS version 7.5.7.1 (#162298)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e088244</div>
-                                        <div class="message">Remove version: TheDocumentFoundation.LibreOffice.LTS version 7.4.2.3 (#162293)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0ac20b0</div>
-                                        <div class="message">Remove version: TheDocumentFoundation.LibreOffice.LTS version 7.3.5.2 (#162289)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#925b4be</div>
-                                        <div class="message">Remove version: TheDocumentFoundation.LibreOffice.LTS version 7.4.5.1 (#162296)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ce3d09d</div>
-                                        <div class="message">Remove version: TheDocumentFoundation.LibreOffice.LTS version 7.4.1.2 (#162291)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7a6e2af</div>
-                                        <div class="message">Remove version: TheDocumentFoundation.LibreOffice.LTS version 7.3.3.2 (#162287)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7f72349</div>
-                                        <div class="message">Remove version: TheDocumentFoundation.LibreOffice.LTS version 7.4.2.1 (#162292)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5ed6ec4</div>
-                                        <div class="message">Remove version: TheDocumentFoundation.LibreOffice.LTS version 7.3.2.2 (#162286)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7a9166e</div>
-                                        <div class="message">Remove version: TheDocumentFoundation.LibreOffice.LTS version 7.4.0.3 (#162290)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ed78639</div>
-                                        <div class="message">Remove version: TheDocumentFoundation.LibreOffice.LTS version 7.2.7.2 (#162284)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#44a4e92</div>
-                                        <div class="message">Remove version: TheDocumentFoundation.LibreOffice.LTS version 7.2.2.2 (#162279)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cabb512</div>
-                                        <div class="message">Remove version: TheDocumentFoundation.LibreOffice.LTS version 7.2.5.1 (#162281)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6bbf72f</div>
-                                        <div class="message">Remove version: TheDocumentFoundation.LibreOffice.LTS version 7.2.0.4 (#162277)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4719896</div>
-                                        <div class="message">Remove version: TheDocumentFoundation.LibreOffice.LTS version 6.4.6.1 (#162274)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2626206</div>
-                                        <div class="message">New Version: OO-Software.AppBuster version 1.4.1345 (#162303)
-
-Co-authored-by: Christian Matuschka &lt;Christian.Matuschka@oo-software.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4713084</div>
-                                        <div class="message">ReleaseNotes: EaseUS.PartitionMaster version 18.8 (#162266)</div>
                                     </div>
                                 </div>
                             </section>
