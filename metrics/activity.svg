@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="645" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="328" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,41 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">revinet/revi.xyz</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#2ff1218</div>
+                                        <div class="message">meta(npm): add `@types/react` and `@types/react-dom`
+
+Summary:
+For better type-ing?
+
+Signed-off-by: Yongmin Hong &lt;revi@omglol.email&gt;
+
+Test Plan: Land it.
+
+Reviewers: O2 Coders, O1 revi &amp; automations, revi
+
+Reviewed By: O2 Coders, O1 revi &amp; automations, revi
+
+Tags: #typescript
+
+Differential Revision: https://issuetracker.revi.xyz/D572</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -112,110 +147,6 @@ Differential Revision: https://issuetracker.revi.xyz/D567</div>
                                         <span class="code">flyctl0288</span>
                                         in
                                         <span class="repo">reviforks/winget-pkgs</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 300 commits in
-                                        <span class="repo">reviforks/winget-pkgs</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#09639e4</div>
-                                        <div class="message">Fix Version: OO-Software.AppBuster version 1.4.1345 (#162515)
-
-Co-authored-by: Christian Matuschka &lt;Christian.Matuschka@oo-software.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#49378cb</div>
-                                        <div class="message">Fix Version: OO-Software.DiskStat version 4.5.1364 (#162517)
-
-Co-authored-by: Christian Matuschka &lt;Christian.Matuschka@oo-software.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cc05c34</div>
-                                        <div class="message">New version: Slonopotamus.Stevedore version 2.0.0 (#162525)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a002383</div>
-                                        <div class="message">Fix Version: OO-Software.Lanytix version 1.1.1342 (#162518)
-
-Co-authored-by: Christian Matuschka &lt;Christian.Matuschka@oo-software.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ea8326c</div>
-                                        <div class="message">Fix Version: OO-Software.DeskInfo version 1.2.1346 (#162516)
-
-Co-authored-by: Christian Matuschka &lt;Christian.Matuschka@oo-software.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#213664b</div>
-                                        <div class="message">Update version: MongoDB.Shell version 2.2.12 (#162514)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dba5262</div>
-                                        <div class="message">New version: UniversalMediaServer.UniversalMediaServer version 14.2.0 (#162496)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1c8e747</div>
-                                        <div class="message">New version: Fastfetch-cli.Fastfetch version 2.18.0 (#162495)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fa48230</div>
-                                        <div class="message">Modify: M2Team.NanaZip version 1.1.194.0 (#162489)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b77c6e3</div>
-                                        <div class="message">Fix Version: OO-Software.ShutUp10 version 1.9.1438.411 Add Commands (#162501)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6f13116</div>
-                                        <div class="message">Modify: M2Team.NanaZip version 2.0.396.0 (#162491)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e38cbc9</div>
-                                        <div class="message">Modify: M2Team.NanaZip version 2.0.450.0 (#162492)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8e5dcd7</div>
-                                        <div class="message">Modify: M2Team.NanaZip version 1.2.252.0 (#162490)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f1390eb</div>
-                                        <div class="message">Modify: M2Team.NanaZip version 1.0.95.0 (#162488)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#47da0b3</div>
-                                        <div class="message">Modify: M2Team.NanaZip version 1.0.46.0 (#162487)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#efaa199</div>
-                                        <div class="message">XSplit.VCam-4.2.2402.0903-f97eef7b-1e36-4aa2-91ff-c2db72c51c3a (#162453)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8cd62cd</div>
-                                        <div class="message">Automatic deletion of YouXiao.YXCalendar 2.4.6.5 (#162446)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8fc7707</div>
-                                        <div class="message">Automatic update of YouXiao.YXCalendar from 2.4.6.5 to 2.4.7.9 (#162444)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#34a77bb</div>
-                                        <div class="message">Microsoft.DotNet.Runtime.8 version 8.0.7 (#162114)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bed427d</div>
-                                        <div class="message">Remove version: THS.THS.Hevo version 8.7.1.2 (#162475)</div>
                                     </div>
                                 </div>
                             </section>
