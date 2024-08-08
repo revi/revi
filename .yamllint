@@ -1,35 +1,51 @@
 ---
+# SPDX-FileCopyrightText: 2024 Hong Yongmin <https://revi.xyz/>
+#
+# SPDX-License-Identifier: Apache-2.0
 yaml-files:
   - '*.yaml'
   - '*.yml'
-  - '.yamllint'
+  - .yamllint
+
+extends: default
+
+locale: ko_KR.UTF-8
+
+ignore-from-file: [.gitignore, .prettierignore]
 
 rules:
-  anchors: enable
-  braces: enable
-  brackets: enable
-  colons: enable
-  commas: enable
+  colons:
+    max-spaces-before: 0
+    max-spaces-after: 1
   comments:
     level: warning
-  comments-indentation:
+    min-spaces-from-content: 1
+  comments-indentation: {}
+  document-start:
+    present: true
     level: warning
-  document-end: disable
-  document-start: disable
-  empty-lines: enable
-  empty-values: disable
-  float-values: disable
-  hyphens: enable
-  indentation: enable
-  key-duplicates: enable
-  key-ordering: disable
+  float-values:
+    forbid-scientific-notation: true
+    require-numeral-before-decimal: true
+  indentation:
+    indent-sequences: consistent
   line-length:
+    max: 80
+    allow-non-breakable-inline-mappings: true
+    allow-non-breakable-words: true
     level: warning
+  # Handled by arc lint.
   new-line-at-end-of-file:
     level: warning
-  new-lines: enable
-  octal-values: disable
-  quoted-strings: disable
-  trailing-spaces: enable
+  # Handled by arc lint.
+  new-lines:
+    level: warning
+  quoted-strings:
+    level: warning
+    quote-type: any
+    required: only-when-needed
+    extra-allowed: [\*, \~, \-, ^http://, ^https://]
   truthy:
     level: warning
+    # "on:" included because GitHub Actions
+    allowed-values: ['on', 'true', 'false']
