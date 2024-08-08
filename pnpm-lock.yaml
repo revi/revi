@@ -9,8 +9,8 @@ importers:
   .:
     devDependencies:
       '@revi/prettier-config':
-        specifier: 0.1.2
-        version: 0.1.2(prettier@3.3.3)
+        specifier: 0.1.3
+        version: 0.1.3(prettier@3.3.3)
       prettier:
         specifier: 3.3.3
         version: 3.3.3
@@ -27,10 +27,10 @@ packages:
     peerDependencies:
       prettier: ^3.0.0
 
-  '@revi/prettier-config@0.1.2':
-    resolution: {integrity: sha512-n3nMnAUXkQSB7L32ZBu3h1tw+fAu3gHnvjcDGdVuchFpYtPPibq11GtVgynBI0T2KYmwusOFphWCzAa8ULZMUQ==}
+  '@revi/prettier-config@0.1.3':
+    resolution: {integrity: sha512-GdH3oQTd6Ed9SrFUmvDbLfYH1fN5hTOjplHuFkBX5bN3wsYllFbGi+78rr+5gdb6zz9ZAP1UZz+AwKKCalHVew==}
     peerDependencies:
-      prettier: 3.3.2
+      prettier: 3.3.3
 
   '@taplo/core@0.1.1':
     resolution: {integrity: sha512-BG/zLGf5wiNXGEVPvUAAX/4ilB3PwDUY2o0MV0y47mZbDZ9ad9UK/cIQsILat3bqbPJsALVbU6k3cskNZ3vAQg==}
@@ -93,7 +93,7 @@ snapshots:
       '@xml-tools/parser': 1.0.11
       prettier: 3.3.3
 
-  '@revi/prettier-config@0.1.2(prettier@3.3.3)':
+  '@revi/prettier-config@0.1.3(prettier@3.3.3)':
     dependencies:
       '@prettier/plugin-php': 0.22.2(prettier@3.3.3)
       '@prettier/plugin-xml': 3.4.1(prettier@3.3.3)
