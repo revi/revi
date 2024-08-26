@@ -24,9 +24,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 August 2024 - To: 24 August 2024
+From: 18 August 2024 - To: 25 August 2024
 
-No activity tracked
+Bash         16 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.91 %
+Markdown     15 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.74 %
+Other        15 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.29 %
+JavaScript   13 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.63 %
+JSON         7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.63 %
 ```
 
 <!--END_SECTION:waka-->
