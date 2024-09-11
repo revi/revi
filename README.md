@@ -24,12 +24,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 September 2024 - To: 09 September 2024
+From: 03 September 2024 - To: 10 September 2024
 
-Markdown   1 hr 8 mins     █████████████████████▓░░░   86.23 %
-Diff       4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 %
-Other      4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
-MDX        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+Markdown   36 mins         █████████████████████▒░░░   85.48 %
+Diff       4 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.62 %
+MDX        1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
 ```
 
 <!--END_SECTION:waka-->
