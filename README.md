@@ -24,11 +24,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 September 2024 - To: 11 September 2024
+From: 05 September 2024 - To: 12 September 2024
 
-Markdown   36 mins         █████████████████████▒░░░   85.48 %
-Diff       4 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.62 %
-MDX        1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
+Markdown     36 mins         ███████████░░░░░░░░░░░░░░   43.50 %
+JavaScript   31 mins         █████████▓░░░░░░░░░░░░░░░   38.09 %
+JSON         4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.25 %
+YAML         3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
+Git Config   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
 ```
 
 <!--END_SECTION:waka-->
