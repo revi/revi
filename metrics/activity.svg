@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="628" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="312" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.licenses{display:flex}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -15,6 +15,86 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">revinet/revi.xyz</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#4b4c2da</div>
+                                        <div class="message">CI(renovate): Update configs
+
+Summary:
+1. Add `semanticCommitScope` config to each `packagaeRules`.
+2. Add `markdownlint-cli2` to `linters` list.
+
+Signed-off-by: Yongmin Hong &lt;revi@omglol.email&gt;
+
+Test Plan:
+1. `pnpm run lint:renovate`.
+2. Land the diff and wait for Mend Renovate run.
+
+Reviewers: O2 Coders, O1 revi &amp; automations, revi
+
+Reviewed By: O2 Coders, O1 revi &amp; automations, revi
+
+Tags: #renovate
+
+Differential Revision: https://issuetracker.revi.xyz/D807</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">revinet/revi.xyz</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c295984</div>
+                                        <div class="message">CI(deps/pypi): Add pipenv for python dependency tracking
+
+Summary:
+Pipfile[1] and `Pipfile.lock` provides decent dependency locking for Python,
+so switch to `//Pipfile` and `//Pipfile.lock`.
+
+[1]: https://pipenv.pypa.io/en/latest/pipfile.html
+
+Signed-off-by: Yongmin Hong &lt;revi@omglol.email&gt;
+
+Test Plan:
+Prerequisite: Have python installed with `Pipenv`, `virtualenv`, `pip`.
+
+1. Activate `virtualenv`.
+2. `pipenv sync` to install `//Pipfile.lock` or `pipenv lock` to Generate `//Pipfile.lock` from `//Pipfile`.
+
+Reviewers: O2 Coders, O1 revi &amp; automations, revi
+
+Reviewed By: O2 Coders, O1 revi &amp; automations, revi
+
+Tags: #docusaurus
+
+Differential Revision: https://issuetracker.revi.xyz/D808</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -74,181 +154,6 @@ Differential Revision: https://issuetracker.revi.xyz/D805</div>
                                 </div>
                                 <div class="details">
                                     <div>opened by renovate[bot] in <span class="repo">revinet/revi.xyz</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 28 commits in
-                                        <span class="repo">revinet/revi.xyz</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">prod</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#dc479d8</div>
-                                        <div class="message">CI(deps): Update npm patch upgrades
-
-Signed-off-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bede0cd</div>
-                                        <div class="message">CI(deps): Update actions/upload-artifact digest to b4b15b8
-
-Signed-off-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4f27a88</div>
-                                        <div class="message">CI(deps): Update dependency renovate to v38.110.2
-
-Signed-off-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#84c007f</div>
-                                        <div class="message">CI(deps): Update internal packages
-
-Signed-off-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b1bef5f</div>
-                                        <div class="message">CI(deps): Update linters
-
-Signed-off-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d1fc1b8</div>
-                                        <div class="message">CI(deps): Update actions/checkout digest to eef6144
-
-Signed-off-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#171b160</div>
-                                        <div class="message">CI(deps): Update actions/upload-artifact digest to 604373d
-
-Signed-off-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e31a3e8</div>
-                                        <div class="message">CI(deps): Update github/codeql-action digest to c36620d
-
-Signed-off-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bf52bf9</div>
-                                        <div class="message">CI(deps): Update internal packages
-
-Signed-off-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a0a2f8c</div>
-                                        <div class="message">CI(deps): Update linters
-
-Signed-off-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2db1357</div>
-                                        <div class="message">CI(deps): Update dependency @types/react to v18.3.11
-
-Signed-off-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5428157</div>
-                                        <div class="message">CI(deps): Update dependency renovate to v38.106.4
-
-Signed-off-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3b85808</div>
-                                        <div class="message">CI(deps): Update github/codeql-action digest to 6db8d63
-
-Signed-off-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#223aeb8</div>
-                                        <div class="message">CI(deps): Update dependency turbo to v2.1.3
-
-Signed-off-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d222df1</div>
-                                        <div class="message">CI(deps): Update dependency node to v20.18.0
-
-Signed-off-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c6b277a</div>
-                                        <div class="message">CI(deps): Update npm to v10.9.0
-
-Signed-off-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1cb971f</div>
-                                        <div class="message">CI(deps): Update dependency @fontsource/noto-serif-kr to v5.1.1
-
-Signed-off-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4c39f31</div>
-                                        <div class="message">CI(deps): Update dependency renovate to v38.101.1
-
-Signed-off-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#46ba2ac</div>
-                                        <div class="message">CI(deps): Update npm patch upgrades
-
-Signed-off-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9183d37</div>
-                                        <div class="message">CI(deps): Update github/codeql-action digest to e2b3eaf
-
-Signed-off-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">revinet/revi.xyz</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a152364</div>
-                                        <div class="message">pages: License update/blog update
-
-Summary:
-1. License update (Non-blog texts are CC BY, blog texts are CC BY ND)
-2. SPDX tag update per 1.
-3. Blog factual update (Elastic re-licensing)
-4. prettierignore to ignore `//LICENSES/`
-5. Add custom licenses for CC 2.0 KR.
-
-Signed-off-by: Yongmin Hong &lt;revi@omglol.email&gt;
-
-Test Plan: `npm run dbuild` and test.
-
-Reviewers: O2 Coders, O1 revi &amp; automations, revi
-
-Reviewed By: O2 Coders, O1 revi &amp; automations, revi
-
-Tags: #docusaurus
-
-Differential Revision: https://issuetracker.revi.xyz/D800</div>
-                                    </div>
                                 </div>
                             </section>
                         </div>
