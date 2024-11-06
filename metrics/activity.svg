@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="361" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="511" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,112 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 8 commits in
+                                        <span class="repo">revinet/revi.xyz</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">prod</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#dd3379f</div>
+                                        <div class="message">docusaurus(config): Add fediverse HTML meta tag
+
+Summary:
+This will add my username when linked from Mastodon. (Not sure about non-mastodon fediverse, though)
+
+Signed-off-by: Yongmin Hong &lt;revi@omglol.email&gt;
+
+Test Plan: Deploy and verify display @ Mastodon instance.
+
+Reviewers: O2 Coders, O1 revi &amp; automations, revi
+
+Reviewed By: O2 Coders, O1 revi &amp; automations, revi
+
+Tags: #docusaurus
+
+Differential Revision: https://issuetracker.revi.xyz/D837</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#167813c</div>
+                                        <div class="message">pages(/index.html): Update webring links
+
+Summary:
+Fix T228. Update to upstream TBD.
+
+Additional `npm run p:w .` included.
+
+Signed-off-by: Yongmin Hong &lt;revi@omglol.email&gt;
+
+Test Plan: `npm run dbuild` and verify result.
+
+Reviewers: O2 Coders, O1 revi &amp; automations, revi
+
+Reviewed By: O2 Coders, O1 revi &amp; automations, revi
+
+Tags: #docusaurus
+
+Maniphest Tasks: T228
+
+Differential Revision: https://issuetracker.revi.xyz/D836</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b16973b</div>
+                                        <div class="message">CI(deps/npm): Update npm patch upgrades
+
+Signed-off-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#91892cd</div>
+                                        <div class="message">CI(deps/npm): Update dependency wrangler to v3.84.0
+
+Signed-off-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b00cefe</div>
+                                        <div class="message">CI(deps/npm): Update dependency @types/node to v20.17.3
+
+Signed-off-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f3a499d</div>
+                                        <div class="message">CI(deps/npm): Update dependency renovate to v38.135.2
+
+Signed-off-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6a44eaa</div>
+                                        <div class="message">CI(deps/npm): Update npm patch upgrades
+
+Signed-off-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6d51160</div>
+                                        <div class="message">CI(lighthouse/playwright): Update tests
+
+Summary:
+1. Add new URLs to lighthouse
+2. Fix changed email address to `tests/contact-methods.spec.ts` (which I forgot to do in D830)
+
+Signed-off-by: Yongmin Hong &lt;revi@omglol.email&gt;
+
+Test Plan: Run tests.
+
+Reviewers: O2 Coders, O1 revi &amp; automations, revi
+
+Reviewed By: O2 Coders, O1 revi &amp; automations, revi
+
+Differential Revision: https://issuetracker.revi.xyz/D834</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -151,22 +257,6 @@ Signed-off-by: Yongmin Hong &lt;revi@omglol.email&gt;</div>
   while not strictly Apache-licensed.
 
 Signed-off-by: Yongmin Hong &lt;revi@omglol.email&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      branch
-                                        <span class="code">actions</span>
-                                        in
-                                        <span class="repo">librewiki/liberty-skin</span>
                                     </div>
                                 </div>
                             </section>
