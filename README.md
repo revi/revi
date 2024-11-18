@@ -24,7 +24,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 November 2024 - To: 16 November 2024
+From: 10 November 2024 - To: 17 November 2024
 
 YAML         13 mins         ██████████▒░░░░░░░░░░░░░░   41.87 %
 MDX          11 mins         ████████▓░░░░░░░░░░░░░░░░   35.00 %
