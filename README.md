@@ -24,7 +24,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 November 2024 - To: 07 December 2024
+From: 01 December 2024 - To: 08 December 2024
 
 JSON         15 mins         ███████████████▒░░░░░░░░░   61.78 %
 Markdown     4 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.52 %
