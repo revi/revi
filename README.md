@@ -24,13 +24,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 January 2025 - To: 09 January 2025
+From: 03 January 2025 - To: 10 January 2025
 
-YAML         5 mins          ████████▒░░░░░░░░░░░░░░░░   33.85 %
-TOML         3 mins          █████▓░░░░░░░░░░░░░░░░░░░   23.22 %
-TypeScript   2 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.93 %
-Other        1 min           ███░░░░░░░░░░░░░░░░░░░░░░   12.34 %
-Markdown     0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
