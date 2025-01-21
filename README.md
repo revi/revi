@@ -24,9 +24,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 January 2025 - To: 19 January 2025
+From: 13 January 2025 - To: 20 January 2025
 
-No activity tracked
+JSON         14 mins         █████████████████████░░░░   84.50 %
+JavaScript   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.85 %
+YAML         0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
+Markdown     0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
+Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
 ```
 
 <!--END_SECTION:waka-->
