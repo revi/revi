@@ -23,7 +23,7 @@
                                     </svg>
                                     <div class="content">
                                         Reviewed
-                                        <span class="issue">#764 CI(deps): Update npm to v11.4.1</span>
+                                        <span class="issue">#771 CI(deps/npm): Update dependency renovate to v39.264.1</span>
                                     </div>
                                 </div>
                                 <div class="details">
@@ -39,7 +39,7 @@
                                     </svg>
                                     <div class="content">
                                         Reviewed
-                                        <span class="issue">#816 CI(deps): Update actions/setup-node digest to 49933ea</span>
+                                        <span class="issue">#864 CI(deps): Update dependency stylelint-config-standard to v38</span>
                                     </div>
                                 </div>
                                 <div class="details">
@@ -55,7 +55,7 @@
                                     </svg>
                                     <div class="content">
                                         Reviewed
-                                        <span class="issue">#739 CI(deps/npm): Update npm patch upgrades</span>
+                                        <span class="issue">#769 CI(deps): Update dependency globals to v16</span>
                                     </div>
                                 </div>
                                 <div class="details">
@@ -71,7 +71,7 @@
                                     </svg>
                                     <div class="content">
                                         Reviewed
-                                        <span class="issue">#865 CI(deps): Update github/codeql-action digest to ff0a06e</span>
+                                        <span class="issue">#848 CI(deps): Update dependency pycodestyle to v2.13.0</span>
                                     </div>
                                 </div>
                                 <div class="details">
@@ -87,7 +87,7 @@
                                     </svg>
                                     <div class="content">
                                         Reviewed
-                                        <span class="issue">#538 CI(deps): Update dependency @types/node to v22</span>
+                                        <span class="issue">#765 CI(deps/npm): Update linters</span>
                                     </div>
                                 </div>
                                 <div class="details">
