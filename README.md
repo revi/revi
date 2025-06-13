@@ -24,12 +24,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 June 2025 - To: 11 June 2025
+From: 05 June 2025 - To: 12 June 2025
 
-JSON       20 mins         ██████████████░░░░░░░░░░░   55.51 %
-Markdown   13 mins         █████████▒░░░░░░░░░░░░░░░   37.69 %
-Other      2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.14 %
-YAML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
