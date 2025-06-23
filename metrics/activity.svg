@@ -23,7 +23,7 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#225 KR: 7.0 lv95</span>
+                                        <span class="issue">#226 KR: 7.0 lv97</span>
                                     </div>
                                 </div>
                                 <div class="details">
@@ -46,8 +46,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f55f7e3</div>
-                                        <div class="message">KR: 7.0 lv95
+                                        <div class="sha">#24e4b4c</div>
+                                        <div class="message">KR: 7.0 lv97
 
 Signed-off-by: Yongmin Hong &lt;revi@omglol.email&gt;</div>
                                     </div>
@@ -62,7 +62,7 @@ Signed-off-by: Yongmin Hong &lt;revi@omglol.email&gt;</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#225 KR: 7.0 lv95</span>
+                                        <span class="issue">#226 KR: 7.0 lv97</span>
                                     </div>
                                 </div>
                                 <div class="details">
@@ -80,7 +80,7 @@ Signed-off-by: Yongmin Hong &lt;revi@omglol.email&gt;</div>
                                     <div class="content">
                                         Created new
                       branch
-                                        <span class="code">kr7.0-lv95</span>
+                                        <span class="code">kr7.0-lv97</span>
                                         in
                                         <span class="repo">reviforks/DutyContent</span>
                                     </div>
@@ -95,12 +95,12 @@ Signed-off-by: Yongmin Hong &lt;revi@omglol.email&gt;</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#224 KR: 7.0 Lv93</span>
+                                        <span class="issue">#225 KR: 7.0 lv95</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">kshman/DutyContent</span></div>
-                                    <div>1 file changed <span class="code">++4 --4</span></div>
+                                    <div>1 file changed <span class="code">++2 --2</span></div>
                                 </div>
                             </section>
                         </div>
