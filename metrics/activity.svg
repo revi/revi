@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="328" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="332" class="">
     <defs>
         <style/>
     </defs>
@@ -23,12 +23,12 @@
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#227 KR: 7.0 lv99 (instance)</span>
+                                        <span class="issue">#230 KR: 7.0 roulette updates + matching tranlsation to client</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">kshman/DutyContent</span></div>
-                                    <div>1 file changed <span class="code">++2 --2</span></div>
+                                    <div>1 file changed <span class="code">++53 --53</span></div>
                                 </div>
                             </section>
                         </div>
@@ -46,10 +46,14 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#62c9755</div>
-                                        <div class="message">KR: 7.0 lv99 (instance)
+                                        <div class="sha">#63970e2</div>
+                                        <div class="message">KR: 7.0 roulette updates + matching tranlsation to client
 
-Trial TBD.
+1. 5678+9 became "상급 레벨링" officially.
+1. 90 instances became 100, for obvious reasons.
+1. Match Duty translation with official title.
+1. Translate `CE:` to `비상교전:`, and add this to existing S. Bozja CEs.
+1. Apply "결투" to duels.
 
 Signed-off-by: Yongmin Hong &lt;revi@omglol.email&gt;</div>
                                     </div>
@@ -64,12 +68,12 @@ Signed-off-by: Yongmin Hong &lt;revi@omglol.email&gt;</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#227 KR: 7.0 lv99 (instance)</span>
+                                        <span class="issue">#230 KR: 7.0 roulette updates + matching tranlsation to client</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">kshman/DutyContent</span></div>
-                                    <div>1 file changed <span class="code">++2 --2</span></div>
+                                    <div>1 file changed <span class="code">++53 --53</span></div>
                                 </div>
                             </section>
                         </div>
@@ -82,7 +86,7 @@ Signed-off-by: Yongmin Hong &lt;revi@omglol.email&gt;</div>
                                     <div class="content">
                                         Created new
                       branch
-                                        <span class="code">kr7.0-lv99</span>
+                                        <span class="code">kr7.0-roulette</span>
                                         in
                                         <span class="repo">reviforks/DutyContent</span>
                                     </div>
@@ -97,7 +101,7 @@ Signed-off-by: Yongmin Hong &lt;revi@omglol.email&gt;</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#226 KR: 7.0 lv97</span>
+                                        <span class="issue">#227 KR: 7.0 lv99 (instance)</span>
                                     </div>
                                 </div>
                                 <div class="details">
