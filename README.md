@@ -24,9 +24,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 July 2025 - To: 13 July 2025
+From: 07 July 2025 - To: 14 July 2025
 
-No activity tracked
+Markdown     8 mins          ████████████░░░░░░░░░░░░░   48.48 %
+JSON         7 mins          ███████████▓░░░░░░░░░░░░░   46.06 %
+YAML         0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
