@@ -24,7 +24,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 July 2025 - To: 16 July 2025
+From: 10 July 2025 - To: 17 July 2025
 
 Markdown     8 mins          ████████████░░░░░░░░░░░░░   48.48 %
 JSON         7 mins          ███████████▓░░░░░░░░░░░░░   46.06 %
