@@ -24,12 +24,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 August 2025 - To: 19 August 2025
+From: 13 August 2025 - To: 20 August 2025
 
-Text       13 mins         ███████████░░░░░░░░░░░░░░   43.34 %
-Markdown   7 mins          ██████░░░░░░░░░░░░░░░░░░░   24.25 %
-JSON       7 mins          ██████░░░░░░░░░░░░░░░░░░░   23.73 %
-Other      2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.68 %
+Markdown   7 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
