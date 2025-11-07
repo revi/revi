@@ -24,9 +24,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 October 2025 - To: 05 November 2025
+From: 30 October 2025 - To: 06 November 2025
 
-No activity tracked
+JSON         20 mins         ████████████████████▓░░░░   83.32 %
+Other        2 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.14 %
+Markdown     0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
+YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
