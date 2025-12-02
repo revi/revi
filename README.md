@@ -24,11 +24,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 November 2025 - To: 30 November 2025
+From: 24 November 2025 - To: 01 December 2025
 
-JSON    35 mins         ██████████████████▓░░░░░░   75.06 %
-Other   5 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.70 %
-PHP     5 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.24 %
+JSON    33 mins         █████████████████████▒░░░   84.76 %
+Other   5 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.14 %
+PHP     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
