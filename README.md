@@ -24,10 +24,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 November 2025 - To: 02 December 2025
+From: 26 November 2025 - To: 03 December 2025
 
-JSON    7 mins          ██████████████░░░░░░░░░░░   56.66 %
-Other   5 mins          ███████████░░░░░░░░░░░░░░   43.34 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
