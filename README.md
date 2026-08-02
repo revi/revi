@@ -24,9 +24,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 July 2026 - To: 31 July 2026
+From: 25 July 2026 - To: 01 August 2026
 
-No activity tracked
+Markdown   2 hrs 33 mins         ████████████████░░░░░░░░░   63.94 %
+YAML       46 mins               █████░░░░░░░░░░░░░░░░░░░░   19.51 %
+JSON       34 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.55 %
+TOML       3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
+Other      1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
 ```
 
 <!--END_SECTION:waka-->
