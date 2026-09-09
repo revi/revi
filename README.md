@@ -24,7 +24,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 August 2026 - To: 07 September 2026
+From: 01 September 2026 - To: 08 September 2026
 
 JavaScript   33 mins               █████████████▒░░░░░░░░░░░   53.55 %
 TypeScript   22 mins               █████████░░░░░░░░░░░░░░░░   36.37 %
