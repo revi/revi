@@ -24,13 +24,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 September 2026 - To: 01 October 2026
+From: 25 September 2026 - To: 02 October 2026
 
-Other        2 hrs 9 mins          ███████████████▒░░░░░░░░░   61.11 %
-Python       53 mins               ██████▒░░░░░░░░░░░░░░░░░░   25.04 %
-PowerShell   13 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.49 %
-YAML         6 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
-PHP          4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
+Other        1 hr                  ████████████░░░░░░░░░░░░░   47.46 %
+Python       53 mins               ██████████▒░░░░░░░░░░░░░░   41.72 %
+PowerShell   13 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.82 %
 ```
 
 <!--END_SECTION:waka-->
